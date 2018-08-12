@@ -1,141 +1,141 @@
 青葉: （お腹空いたなあ。今日は何食べよう。\n　とりあえずねねっち誘ってから考えようかな。\n　ねねっちはっと……）
-青葉: （お腹空いたなあ。今日は何食べよう。\n　とりあえずねねっち誘ってから考えようかな。\n　ねねっちはっと……）
+Aoba: （I'm feeling pretty hungry... What will I eat today?\nI should probably invite Nenecchi too.）
 
 うみこ: 桜さんはモデルガンというものを\n勘違いしています。
-うみこ: 桜さんはモデルガンというものを\n勘違いしています。
+Umiko: Sakura-san, you're misunderstanding the model gun.
 
 うみこ: あなたは銃の形状をしていれば\nモデルガンだと思っているようですが\nそれは間違いです。
-うみこ: あなたは銃の形状をしていれば\nモデルガンだと思っているようですが\nそれは間違いです。
+Umiko: To think that this looks like a real gun would be a mistake.
 
 うみこ: 簡単に言うと弾を発射できない物が――
-うみこ: 簡単に言うと弾を発射できない物が――
+Umiko: Put simply, things that cannot fire bullets are…
 
 青葉: （……うみこさんがねねっち相手に熱く語ってる。\n　趣味の話になるとうみこさん、\n　すごく長いんだよね）
-青葉: （……うみこさんがねねっち相手に熱く語ってる。\n　趣味の話になるとうみこさん、\n　すごく長いんだよね）
+Aoba: (…Umiko-san is talking quite alot to Nenecchi.\n Umiko-san always talks for ages about her hobbies.)
 
 青葉: （うーん、どうしよう。\n　お昼ご飯に誘いに来たけど、\n　下手に話しかけると私も巻き込まれちゃうよね）
-青葉: （うーん、どうしよう。\n　お昼ご飯に誘いに来たけど、\n　下手に話しかけると私も巻き込まれちゃうよね）
+青葉: (Ughhh, what do I do? I want to invite you to lunch but if I say anything I'll get caught in the conversation too!)
 
 青葉: （うん、ここは心を鬼にして見つかる前に\n　撤退しよう。ねねっち、ごめん！）
-青葉: （うん、ここは心を鬼にして見つかる前に\n　撤退しよう。ねねっち、ごめん！）
+Aoba: (Yeah, I'm going to avoid this... Sorry, Nenecchi!)
 
 ねね: あっ、あおっち！
-ねね: あっ、あおっち！
+Nene: Ah, Aocchi!
 
 青葉: （あう……）
-青葉: （あう……）
+Aoba: (Darn it!)
 
 ねね: ちょっとあおっち聞いてよ～。\nうみこさんてば話が長いんだよー。さっきから\nずーっとモデルガンの話ばっかりしてるの。
-ねね: ちょっとあおっち聞いてよ～。\nうみこさんてば話が長いんだよー。さっきから\nずーっとモデルガンの話ばっかりしてるの。
+Nene: Aocchi, listen for a sec. Umiko-san and I have been talking about model guns.
 
 うみこ: 涼風さんもモデルガンに興味がありますか？
-うみこ: 涼風さんもモデルガンに興味がありますか？
+Umiko: Suzukaze-san, are you also interested in model guns?
 
 青葉: えっ、えーと……。
-青葉: えっ、えーと……。
+Aoba: Uh, uhhhhhh…
 
 青葉: （興味がないこともないんだけど、\n　ここで、はい！　って答えたら\n　お昼ご飯を食べる時間なくなっちゃうよね）
-青葉: （興味がないこともないんだけど、\n　ここで、はい！　って答えたら\n　お昼ご飯を食べる時間なくなっちゃうよね）
+Aoba: (I'm not interested, but right now, fine! \n... \nBut if I say anything, I'll miss lunch.)
 
 青葉: （うみこさん、一度話し始めると\n　本当に終わらないから……）
-青葉: （うみこさん、一度話し始めると\n　本当に終わらないから……）
+Aoba: (Umiko-san, when you start talking you really don't ever stop…!)
 
 青葉: あの、すみません。\n私、これからお昼なので……。
-青葉: あの、すみません。\n私、これからお昼なので……。
+Aoba: Uh, sorry… I'm gonna go get some lunch.
 
 ねね: あっ、私もお腹すいたー！\nあおっち、お昼ご飯食べに行こっ。
-ねね: あっ、私もお腹すいたー！\nあおっち、お昼ご飯食べに行こっ。
+Nene: Ah, I'm also hungry!\nAocchi, let's go get lunch!
 
 うみこ: ああ、そういえばもうそんな時間ですね。\n話に熱中して気づきませんでした。
-うみこ: ああ、そういえばもうそんな時間ですね。\n話に熱中して気づきませんでした。
+Umiko: Ah, now that you mention it, it is about lunchtime, isn't it?\nI was so busy talking I didn't notice.
 
 うみこ: 桜さん、出かけるのは構いませんが\nちゃんと時間までに戻ってきてください。\nどこかで寄り道をして遅くならないように。
-うみこ: 桜さん、出かけるのは構いませんが\nちゃんと時間までに戻ってきてください。\nどこかで寄り道をして遅くならないように。
+Umiko: Sakura-san, please do make sure to come back here on time.
 
 ねね: もー、うみこさんってば酷い～。\n私のこともっと信用してくださいよ！
-ねね: もー、うみこさんってば酷い～。\n私のこともっと信用してくださいよ！
+Nene: Ehhh, meanie Umiko-san. You need to trust me more!
 
 うみこ: あなたは何かに気を取られると\nすぐそちらに意識を逸らしてしまいますから\n当然でしょう。
-うみこ: あなたは何かに気を取られると\nすぐそちらに意識を逸らしてしまいますから\n当然でしょう。
+Umiko: I know you well enough to know you get distracted whenever there is something distracting.
 
 うみこ: 信頼を得たいのであれば、\nもっと日頃の行いを心がけてください。\nまあ、涼風さんが一緒なら問題ないでしょうが。
-うみこ: 信頼を得たいのであれば、\nもっと日頃の行いを心がけてください。\nまあ、涼風さんが一緒なら問題ないでしょうが。
+Umiko: If you want to earn my trust, you should do more work every day…
 
 ねね: あおっちばっかりず～る～い～！！
-ねね: あおっちばっかりず～る～い～！！
+Nene: Aocchi is a bit sneaky!
 
 青葉: あれ？
-青葉: あれ？
+Aoba: ...Eh?
 
 うみこ: どうかしましたか。
-うみこ: どうかしましたか。
+Umiko: What do you mean by that?
 
 青葉: あの、うみこさんの机の上にあるそれって\nなんですか？\n銃のパーツみたいですけど。
-青葉: あの、うみこさんの机の上にあるそれって\nなんですか？\n銃のパーツみたいですけど。
+Aoba: Is that the thing from Umiko-san's desk? Looks like gun parts.
 
 うみこ: ああ、これですか。\nモデルガンの整備をするため、\n分解していたところです。
-うみこ: ああ、これですか。\nモデルガンの整備をするため、\n分解していたところです。
+Umiko: Ah, this? I was disassembling one of my model guns, for maintenance.
 
 青葉: へえ、モデルガンの掃除ってそうやるんですね。
-青葉: へえ、モデルガンの掃除ってそうやるんですね。
+Aoba: Oooh! Taking them apart and cleaning them looks interesting! 
 
 うみこ: ええ、まあ。\n使用したままにしておくとカートに\n火薬のカスがこびりついて固着してしまうんです。
-うみこ: ええ、まあ。\n使用したままにしておくとカートに\n火薬のカスがこびりついて固着してしまうんです。
+Umiko: Quite. Although sometimes, the gunpowder glue sticks to the cartridge and gets it stuck.
 
 うみこ: そうすると発火性能が落ちてしまうので、\n手入れは重要なんですよ。
-うみこ: そうすると発火性能が落ちてしまうので、\n手入れは重要なんですよ。
+Umiko: That makes the ignition less efficient, or even non-existant, so you have to be careful.
 
 うみこ: シリコンオイルを小まめに使用しておかないと、\nカートリッジが外せなくなってしまうことも\nありますし。
-うみこ: シリコンオイルを小まめに使用しておかないと、\nカートリッジが外せなくなってしまうことも\nありますし。
+Umiko: If you don't use any silicon oil, you may be unable to remove the cartridge.
 
 ねね: でも、それって会社でやることじゃないよね。
-ねね: でも、それって会社でやることじゃないよね。
+Nene: But, that shouldn't be done at work, right?
 
 青葉: ね、ねねっち！
-青葉: ね、ねねっち！
+Aoba: Ne-Nenecchi!
 
 うみこ: 今は昼休み中なんですから、\n問題ないでしょう。
-うみこ: 今は昼休み中なんですから、\n問題ないでしょう。
+Umiko: It's lunchtime right now, so it's fine.
 
 うみこ: それに見方によっては、\n仕事と捉えられなくもありません。
-うみこ: それに見方によっては、\n仕事と捉えられなくもありません。
+Umiko: Plus, depending on how you view it, this isn't work.
 
 ねね: またまたー。\nそんなわけないじゃないですか。\nうみこさんのは趣味でしょ、趣味。
-ねね: またまたー。\nそんなわけないじゃないですか。\nうみこさんのは趣味でしょ、趣味。
+Nene: I don't really think so, though. It's a hobby.
 
 うみこ: ……桜さん、今回見つかったバグは\n今日中にレポートにまとめて提出してくださいね。
-うみこ: ……桜さん、今回見つかったバグは\n今日中にレポートにまとめて提出してくださいね。
+Umiko: ……\nSakura-san, please submit all bugs found this session by the end of today.
 
 ねね: ええっ！\n今日中ってもうそんなに時間ないじゃないですか！
-ねね: ええっ！\n今日中ってもうそんなに時間ないじゃないですか！
+Nene: Eeehhhhh?! There's already isn't that much time left!
 
 うみこ: 昼食後、午後の時間を使えばできるでしょう。\nあとは整理するだけですし。
-うみこ: 昼食後、午後の時間を使えばできるでしょう。\nあとは整理するだけですし。
+Umiko: You still have the afternoon after lunch. You only have to organise them all.
 
 ねね: うう……うみこさんの鬼ー！\nあくまー！
-ねね: うう……うみこさんの鬼ー！\nあくまー！
+Nene: Meeehhh, Umiko-san is so mean! A demon!
 
 青葉: （……これも仕事ってどういう意味だろう？\n　もしかしてあの銃、資料に使うとか\n　そういう意味かな？）
-青葉: （……これも仕事ってどういう意味だろう？\n　もしかしてあの銃、資料に使うとか\n　そういう意味かな？）
+Aoba: (… Is this how they normally work? Is the gun is used as reference or what?)
 
 青葉: （フェアリーズストーリーみたいな\n　ファンタジー系の世界観じゃ\n　銃ってあまり使わないけど……）
-青葉: （フェアリーズストーリーみたいな\n　ファンタジー系の世界観じゃ\n　銃ってあまり使わないけど……）
+Aoba: (Although you wouldn't see guns in the fantasy world of Fairies Stories…)
 
 青葉: （うちの会社が違う系統のゲームを\n　出すことになったら知識として必要に\n　なるかもしれないし）
-青葉: （うちの会社が違う系統のゲームを\n　出すことになったら知識として必要に\n　なるかもしれないし）
+Aoba: （Although it might be necessary if the studio ever wants to make a game in a different world.）
 
 青葉: （そう考えると、私もデザイナーとして\n　銃を知っておいたほうがいいよね）
-青葉: （そう考えると、私もデザイナーとして\n　銃を知っておいたほうがいいよね）
+Aoba: （Heck, I should probably know a gun as well, as a designer.）
 
 青葉: （３Ｄモーションとか作る時になって\n　動かし方わからないから作れませんじゃ\n　みんなに迷惑かけちゃうし）
-青葉: （３Ｄモーションとか作る時になって\n　動かし方わからないから作れませんじゃ\n　みんなに迷惑かけちゃうし）
+Aoba: (If I can't model and animate a gun in 3D because I don't know how it works or moves, I might disappoint everyone…)
 
 青葉: （それに、動かし方を知っているか\n　知らないかで絵の描き方も変わるだろうし……）
-青葉: （それに、動かし方を知っているか\n　知らないかで絵の描き方も変わるだろうし……）
+青葉: （The same is true for drawing, it might look different if I know all the individual parts…）
 
 うみこ: ……まあ、せっかくの沖縄旅行なんですから\n少しでも楽しみたいじゃないですか。
-うみこ: ……まあ、せっかくの沖縄旅行なんですから\n少しでも楽しみたいじゃないですか。
+Umiko: Well, it is one of the precious trips I get to Okinawa, so I would like to have some fun.
 
 青葉: （えっ、沖縄？）
-青葉: （えっ、沖縄？）
+Aoba: (Eh? Okinawa?)
 
