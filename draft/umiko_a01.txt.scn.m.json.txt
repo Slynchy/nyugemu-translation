@@ -1,90 +1,92 @@
 青葉: （飛行機に乗って約２時間半。\n　私は初めて来る沖縄にワクワクしながら\n　空港へと降り立ちました）
-青葉: （飛行機に乗って約２時間半。\n　私は初めて来る沖縄にワクワクしながら\n　空港へと降り立ちました）
+Aoba: (Our plane landed at two-thirty.\nI was very excited to go to Okinawa and fly for the first time!)
 
 青葉: （……あ、あれ？\n　なんだかここ、ものすごく暑いような……？）
-青葉: （……あ、あれ？\n　なんだかここ、ものすごく暑いような……？）
+Aoba: (…Wait, it looks like it's really hot here?)
 
 青葉: （あそこの時計の横にあるのって気温計だよね。\n　わわっ、地元より５度も高い！\n　同じ日本なのに……こんなに違うんだ）
-青葉: （あそこの時計の横にあるのって気温計だよね。\n　わわっ、地元より５度も高い！\n　同じ日本なのに……こんなに違うんだ）
+Aoba: (There's a thermometer next to the clock.\nWaaa～! It's five times hotter than home!\nEven though it's still the same Japan, it's so different, huh…)
 
 りん: はい、みんなちょっと聞いてちょうだい。\n本来のスケジュールだとこれから移動の予定\nなんだけど送迎バスが少し遅れているみたいなの。
-りん: はい、みんなちょっと聞いてちょうだい。\n本来のスケジュールだとこれから移動の予定\nなんだけど送迎バスが少し遅れているみたいなの。
+Rin: Right, everyone, come here a moment!\nThe bus should be here, but it seems to be running late.
 
 りん: だから、バスが来るまでしばらくこの場所で\n待機していてくださいね。
-りん: だから、バスが来るまでしばらくこの場所で\n待機していてくださいね。
+Rin: So stay nearby until the bus comes, please!
 
 青葉: あ、はい。わかりました。
-青葉: あ、はい。わかりました。
+Aoba: Understood!
 
 ねね: うう……。\nあづいよ、あおっち～。\n溶けちゃうよぉ……。
-ねね: うう……。\nあづいよ、あおっち～。\n溶けちゃうよぉ……。
+Nene: Ahhhhh, it's so hot, Aocchi!\nI'm gonna me～elt!
 
 青葉: だ、大丈夫？\n何か冷たいものでも飲む？
-青葉: だ、大丈夫？\n何か冷たいものでも飲む？
+Aoba: Are you okay?\nDidn't you bring anything cold to drink?
 
 ねね: 飲む～……。
-ねね: 飲む～……。
+Nene: No～～…
 
 うみこ: まったく、この程度の暑さで何を言っているん\nですか。今から音をあげているようでは先が\n思いやられますね。
-うみこ: まったく、この程度の暑さで何を言っているん\nですか。今から音をあげているようでは先が\n思いやられますね。
+Umiko: *sigh* What are you thinking, in this heat…\nFrom now on, you can't make a sound if you can't think ahead. 
 
 ねね: うみこさんは沖縄の人だから\n感覚がマヒしちゃってるんですよー。\n私の感覚が一般的ですってばぁ。
-ねね: うみこさんは沖縄の人だから\n感覚がマヒしちゃってるんですよー。\n私の感覚が一般的ですってばぁ。
+Nene: Umiko-sa～an, you're only saying that because you're from Okinawa!\nI have an unbiased view!
 
 うみこ: 空港内はまだマシなほうですよ。\n外はもっと暑いですから。
-うみこ: 空港内はまだマシなほうですよ。\n外はもっと暑いですから。
+Umiko: I prefered being inside the airport. Outside is still hot.
 
 ねね: えええええ……。
-ねね: えええええ……。
+Nene: Eee～eeh…
 
 青葉: あれ、うみこさん何してるんですか？\nそれってノートパソコンですよね。
-青葉: あれ、うみこさん何してるんですか？\nそれってノートパソコンですよね。
+Aoba: Uh, Umiko-san？ What are you doing?\nThat's a notebook laptop, isn't it?
 
 うみこ: ああ、会社に届いている私宛てのメールと\nサーバーの確認をしているんです。
-うみこ: ああ、会社に届いている私宛てのメールと\nサーバーの確認をしているんです。
+Umiko: I'm checking my emails on the company servers.
 
 青葉: そんなことできるんですか？
-青葉: そんなことできるんですか？
+Aoba: Can you do that from here?
 
 うみこ: 出発する前にこちらから\nリモートコントロールできるようにしてきました。
-うみこ: 出発する前にこちらから\nリモートコントロールできるようにしてきました。
+Umiko: Before we left I set up a remote-desktop connection to my desktop.
 
 うみこ: 私たちが社員旅行中でも、\n外部にとっては関係ありませんから。
-うみこ: 私たちが社員旅行中でも、\n外部にとっては関係ありませんから。
+Umiko: Even while we're on this company trip, the outside world 
+Umiko: On a company trip, outside of work, there is no difference.
 
 青葉: でも、今週は社員旅行だって遠山さんや\n葉月さんが連絡してませんでしたっけ。
-青葉: でも、今週は社員旅行だって遠山さんや\n葉月さんが連絡してませんでしたっけ。
+Aoba: But I heard that Toyama-san and Hazuki-san did not tell everyone about the company trip this week.
 
 うみこ: 当然、関係者には連絡してありますが\n休暇中に即時対応しなければならない事案が\n発生しないとも限りません。
-うみこ: 当然、関係者には連絡してありますが\n休暇中に即時対応しなければならない事案が\n発生しないとも限りません。
+Umiko: We- of course- informed the concerned parties, but there is no guarantee that incidents that need immediate attention won't arise while we are on this trip.
 
 うみこ: ですから、そういった時に備えて\n私はこちらからでも対応できるように\nしているんです。いわゆる保険ですね。
-うみこ: ですから、そういった時に備えて\n私はこちらからでも対応できるように\nしているんです。いわゆる保険ですね。
+Umiko: So, in preparation for such an event, I am trying to get ahead of it, even from here.\nYou could call it 'insurance'.
 
 青葉: なんだか、旅行先まで大変ですね。
-青葉: なんだか、旅行先まで大変ですね。
+Aoba: Sounds like it makes it difficult to travel...
 
 うみこ: いえ、別に。\n日課ですから。
-うみこ: いえ、別に。\n日課ですから。
+うみこ: No, not particularly.\nIt is simply routine.
 
 青葉: （うみこさん、すごいなあ。\n　旅行中にお仕事のことまで考えてるなんて。\n　私は沖縄のことで頭いっぱいだったのに）
-青葉: （うみこさん、すごいなあ。\n　旅行中にお仕事のことまで考えてるなんて。\n　私は沖縄のことで頭いっぱいだったのに）
+Aoba: (Umiko-san is so impressive...\nI don't think I was concerned about my work while I'd be on this trip.\nI was too busy thinking about Okinawa!)
 
 ねね: ふう、冷たいお茶がおいしい～。\nあおっちも飲む？
-ねね: ふう、冷たいお茶がおいしい～。\nあおっちも飲む？
+Nene: Fuu～, cold tea is so ni～ice!\nDo you want any, Aocchi?
 
 青葉: ううん、私は自分のがあるから大丈夫。\n全部飲んじゃっていいよ、ねねっち。
-青葉: ううん、私は自分のがあるから大丈夫。\n全部飲んじゃっていいよ、ねねっち。
+Aoba: I'm fine, I've got my own.\nFeel free to drink it all.
 
 ねね: あっ、そう言えばあおっち。\nあの件ってどうなったの？
-ねね: あっ、そう言えばあおっち。\nあの件ってどうなったの？
+//Nene: Ah, that's what you say, Aocchi.\nRemember that one time?
+Nene: Oh, I just remembered, Aocchi. How did that thing go?
 
 青葉: あの件って？
-青葉: あの件って？
+Aoba: That thing?
 
 ねね: ほら、その……うみこさんの言ってたやつ。
-ねね: ほら、その……うみこさんの言ってたやつ。
+Nene: You know… that guy Umiko-san was talking about?
 
 青葉: （ねねっちの言葉に私は思い出す。\n　私たちが沖縄に出発する前、\n　うみこさんが言っていたことを）
-青葉: （ねねっちの言葉に私は思い出す。\n　私たちが沖縄に出発する前、\n　うみこさんが言っていたことを）
+Aoba: （I remember what Necchi was talking about.\nWhat Umiko was talking about, before we left for Okinawa…）
 
