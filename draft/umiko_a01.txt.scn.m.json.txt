@@ -1,11 +1,11 @@
 青葉: （飛行機に乗って約２時間半。\n　私は初めて来る沖縄にワクワクしながら\n　空港へと降り立ちました）
-Aoba: (Our plane landed at two-thirty.\nI was very excited to go to Okinawa and fly for the first time!)
+Aoba: (Our flight was about two and a half hours.\nI was very excited to go to Okinawa and fly for the first time!)
 
 青葉: （……あ、あれ？\n　なんだかここ、ものすごく暑いような……？）
 Aoba: (…Wait, it looks like it's really hot here?)
 
 青葉: （あそこの時計の横にあるのって気温計だよね。\n　わわっ、地元より５度も高い！\n　同じ日本なのに……こんなに違うんだ）
-Aoba: (There's a thermometer next to the clock.\nWaaa～! It's five times hotter than home!\nEven though it's still the same Japan, it's so different, huh…)
+Aoba: (There's a thermometer next to the clock.\nWaaa～! It's five degrees hotter than home!\nEven though it's still the same Japan, it's so different, huh…)
 
 りん: はい、みんなちょっと聞いてちょうだい。\n本来のスケジュールだとこれから移動の予定\nなんだけど送迎バスが少し遅れているみたいなの。
 Rin: Right, everyone, come here a moment!\nThe bus should be here, but it seems to be running late.
@@ -23,7 +23,7 @@ Nene: Ahhhhh, it's so hot, Aocchi!\nI'm gonna me～elt!
 Aoba: Are you okay?\nDidn't you bring anything cold to drink?
 
 ねね: 飲む～……。
-Nene: No～～…
+Nene: I want to drink～～…
 
 うみこ: まったく、この程度の暑さで何を言っているん\nですか。今から音をあげているようでは先が\n思いやられますね。
 Umiko: *sigh* What are you thinking, in this heat…\nFrom now on, you can't make a sound if you can't think ahead. 
@@ -50,11 +50,10 @@ Aoba: Can you do that from here?
 Umiko: Before we left I set up a remote-desktop connection to my desktop.
 
 うみこ: 私たちが社員旅行中でも、\n外部にとっては関係ありませんから。
-Umiko: Even while we're on this company trip, the outside world 
 Umiko: On a company trip, outside of work, there is no difference.
 
 青葉: でも、今週は社員旅行だって遠山さんや\n葉月さんが連絡してませんでしたっけ。
-Aoba: But I heard that Toyama-san and Hazuki-san did not tell everyone about the company trip this week.
+Aoba: But I heard that Toyama-san and Hazuki-san didn't tell everyone about the company trip this week.
 
 うみこ: 当然、関係者には連絡してありますが\n休暇中に即時対応しなければならない事案が\n発生しないとも限りません。
 Umiko: We- of course- informed the concerned parties, but there is no guarantee that incidents that need immediate attention won't arise while we are on this trip.
