@@ -1,117 +1,119 @@
 青葉: （結局、サバイバルゲームを回避する\n　いいアイディアは見つかってない）
-青葉: （結局、サバイバルゲームを回避する\n　いいアイディアは見つかってない）
+Aoba: （In the end, we couldn't come up with a good idea to avoid playing a survival game.）
 
 青葉: （このままじゃ、せっかく沖縄まで来たのに\n　自由行動時間がサバイバルゲームで埋まっちゃう。\n　どうすればいいのかな）
-青葉: （このままじゃ、せっかく沖縄まで来たのに\n　自由行動時間がサバイバルゲームで埋まっちゃう。\n　どうすればいいのかな）
+Aoba: （The way this is going, even though we came all the way to Okinawa, all our free time is going to be spent playing a survival game... What can we do...）
 
 ねね: ねえねえ、あおっち。\nあの件、何かいい案思い浮かんだ？
-ねね: ねえねえ、あおっち。\nあの件、何かいい案思い浮かんだ？
+Nene: Hey, Aocchi, did you come up with any good ideas about you-know-what?
 
 青葉: ううん、ちっとも。
-青葉: ううん、ちっとも。
+Aoba: No, nothing yet.
 
 ねね: 私もサッパリなんだよねー。\nでもさ、うみこさん……サバイバルゲームするに\nしては荷物が少ない気がしない？
-ねね: 私もサッパリなんだよねー。\nでもさ、うみこさん……サバイバルゲームするに\nしては荷物が少ない気がしない？
+Nene: Got nothing here too...\nBut Umiko-san's luggage... isn't it a bit too small to have stuff for playing a survival game?
 
 ねね: 私とあおっちの分のモデルガンが入ってるって\n考えたら他の人より荷物が多くなると思うんだ。
-ねね: 私とあおっちの分のモデルガンが入ってるって\n考えたら他の人より荷物が多くなると思うんだ。
+Nene: If she had model guns for the both of us, she'd have more bags than other people.
 
 青葉: （そういえば……）
-青葉: （そういえば……）
+Aoba: （She has a point...）
 
 ねね: もしかすると私たちが\n考えすぎてたのかもしれないよ！
-ねね: もしかすると私たちが\n考えすぎてたのかもしれないよ！
+Nene: Maybe we're thinking too much about this!
 
 青葉: （……そうかなあ。それなら良いんだけど）
-青葉: （……そうかなあ。それなら良いんだけど）
+Aoba: （…True, but that's probably good.）
 
 りん: みんな、お待たせ。\n旅館からの送迎バスが着いたそうだから、\n各自荷物を持って出口まで移動してちょうだい。
-りん: みんな、お待たせ。\n旅館からの送迎バスが着いたそうだから、\n各自荷物を持って出口まで移動してちょうだい。
+Rin: Sorry for the wait, everyone! It looks like the bus is arriving from the inn, so please collect your luggage and go to the exit.
 
 青葉: あっ、そういえばねねっちはどこに泊まるの？
-青葉: あっ、そういえばねねっちはどこに泊まるの？
+Aoba: Oh, by the way, Nenecchi. Where are you staying?
 
 ねね: それはこれから探すよ！
-ねね: それはこれから探すよ！
+Nene: I'll be looking for somewhere from now!
+// "I'm looking for somewhere now!" maybe?
 
 青葉: えっ、もしかして……泊まる場所、決めてないの？
-青葉: えっ、もしかして……泊まる場所、決めてないの？
+Aoba: Wait, are you saying... you haven't sorted somewhere to stay yet?
 
 ねね: だいじょーぶ、だいじょーぶ。\n決めたらすぐあおっちに連絡するから！
-ねね: だいじょーぶ、だいじょーぶ。\n決めたらすぐあおっちに連絡するから！
+Nene: It's fine, it's fi～ine! As soon as I sort somewhere, I'll let you know!
 
 青葉: いや、そういうことじゃなくて……。
-青葉: いや、そういうことじゃなくて……。
+Aoba: That's not really the problem…
 
 青葉: （あれだけ時間があったのに、\n　泊まる場所決めないで来ちゃったんだ……！）
-青葉: （あれだけ時間があったのに、\n　泊まる場所決めないで来ちゃったんだ……！）
+Aoba: （Even though you've had enough time, you still haven't decided on somewhere?!）
 
 りん: あら、桜さん宿泊場所決めてないの？\nそれは困ったわね。
-りん: あら、桜さん宿泊場所決めてないの？\nそれは困ったわね。
+Rin: Sakura-san, you haven't sorted somewhere to stay? That's not good!
 
 ねね: 遠山さんまで大げさですよー。\n私１人くらいならどうとでもなりますって。
-ねね: 遠山さんまで大げさですよー。\n私１人くらいならどうとでもなりますって。
+Nene: Toyama-san, you're exaggerating, y'know? [COULD NOT TRANSLATE]
 
 うみこ: その考えが浅はかだと言うんです。
-うみこ: その考えが浅はかだと言うんです。
+Umiko: What a foolish thing to say.
 
 ねね: ど、どういう意味ですか……。
-ねね: ど、どういう意味ですか……。
+Nene: W…what do you mean by that?
 
 うみこ: 宿を探すための足は？\n仮にバスで行ったとして、そこで部屋に\n空きがなかったらどうするつもりなんですか？
-うみこ: 宿を探すための足は？\n仮にバスで行ったとして、そこで部屋に\n空きがなかったらどうするつもりなんですか？
+Umiko: The point of finding sufficient lodging？\nYou're on the bus for now, but when we get there,\nwhat will you do if they don't have any vacancies?
 
 うみこ: また無駄に運賃を使うんですか？\nそれともこの暑さの中、歩き回るんですか？
-うみこ: また無駄に運賃を使うんですか？\nそれともこの暑さの中、歩き回るんですか？
+Umiko: Try to use the bus again? Or maybe walk around in this heat?
 
 ねね: えーっと、それはその……。
-ねね: えーっと、それはその……。
+Nene: Weeell, that's……
 
 うみこ: はあ、仕方ありませんね。\nそれなら私の知り合いの民宿を紹介しますので、\n一度私たちが泊まる旅館まで来てください。
-うみこ: はあ、仕方ありませんね。\nそれなら私の知り合いの民宿を紹介しますので、\n一度私たちが泊まる旅館まで来てください。
+Umiko: Well, I guess it can't be helped.\nIn that case, I'll introduce you to my acquaintance who runs a private lodging.\nPlease stay with us until we reach our inn.
 
 ねね: いいんですか！？
-ねね: いいんですか！？
+Nene: Is that okay?!
 
 うみこ: 部屋が空いているかどうか確認しなければならない\nので少し時間はかかりますが、無駄に空き宿を\n探すよりはマシでしょう。
-うみこ: 部屋が空いているかどうか確認しなければならない\nので少し時間はかかりますが、無駄に空き宿を\n探すよりはマシでしょう。
+Umiko: It might take a moment, because I'll have to confirm that a room is available,\nbut it'll be better than searching for available lodgings in futility.
+// 無駄に空き宿を = futility ni spare rooms wo
 
 うみこ: 今の時期、飛び込み客を受け付けているような所は\n限られていますし。
-うみこ: 今の時期、飛び込み客を受け付けているような所は\n限られていますし。
+Umiko: At this time of year, places accepting sudden customers are very limited.
 
 うみこ: りんさん、桜さんをバスに乗せても構いませんよね？
-うみこ: りんさん、桜さんをバスに乗せても構いませんよね？
+Umiko: Rin-san, does your bus have space for Sakura-san?
 
 りん: それが席に空きが無いのよ。\nそれに旅館の送迎バスだから、\n勝手に乗せるのはちょっと……。
-りん: それが席に空きが無いのよ。\nそれに旅館の送迎バスだから、\n勝手に乗せるのはちょっと……。
+Rin: We don't have any seats available... Plus, it's the inn's shuttle, so using it for your own reasons is a bit... 
 
 うみこ: ……というわけで、頑張って旅館まで\n来てください。
-うみこ: ……というわけで、頑張って旅館まで\n来てください。
+Umiko: ……\nWell there you have it, please try your best to get to the inn.
 
 ねね: ええ！？\nそんなの酷い！
-ねね: ええ！？\nそんなの酷い！
+Nene: Eeeehh!?\nThat's so mean!
 
 うみこ: 仕方ないでしょう。\n社会にはルールというものがあるんですから。
-うみこ: 仕方ないでしょう。\n社会にはルールというものがあるんですから。
+Umiko: It is what it is.\nIt's what society calls a rule.
 
 ねね: ぬぐぅ、それはそうだけどさ～……。
-ねね: ぬぐぅ、それはそうだけどさ～……。
+Nene: Awww, that's tru～ue, bu～ut...
 
 青葉: ねねっち大丈夫？\n不安なら私も一緒に行こうか？
-青葉: ねねっち大丈夫？\n不安なら私も一緒に行こうか？
+Aoba: Will you be okay, Nenecchi?\nIf you're not sure, I can come with you?
 
 ねね: へ、平気だし！\nあおっちたちよりも先に着いちゃうんだから！
-ねね: へ、平気だし！\nあおっちたちよりも先に着いちゃうんだから！
+Nene: It's fine! Because I'll arrive before you guys!
 
 うみこ: では、旅館の住所をお渡ししておきます。\n何かあったらすぐに連絡をするように、\nわかりましたね？
-うみこ: では、旅館の住所をお渡ししておきます。\n何かあったらすぐに連絡をするように、\nわかりましたね？
+Umiko: Then I'll give you the address of the inn. If you need anything, contact me immediately. Got it?
 
 ねね: ラジャー！
-ねね: ラジャー！
+Nene: Roger!
 
 うみこ: では、涼風さん。\n我々もそろそろ行きましょうか。
-うみこ: では、涼風さん。\n我々もそろそろ行きましょうか。
+Umiko: As for us, Suzukaze-san, it's about time for us to go. Shall we?
 
 青葉: （うぅ、ねねっち大丈夫かな）
-青葉: （うぅ、ねねっち大丈夫かな）
+Aoba: （Will Nenecchi really be okay...?）
 
