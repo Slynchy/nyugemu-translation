@@ -1,0 +1,109 @@
+コウ: おお、結構いい感じの宿じゃん。
+Kou: Ooh, this inn looks nice.
+
+青葉: 趣があるって感じですね。
+Aoba: Yeah, it certainly has charm.
+
+コウ: そういえば、青葉。入口見た？\nシーサー飾ってあんの、シーサー。\n本物初めて見たよ。
+Kou: Oh yeah, Aoba, did you see the entrance? They had those Okinawan lion decorations. It's my first time seeing the real deal.
+
+青葉: あっ、見ました！\nシーサーってどんな意味が\nあるんでしたっけ？
+Aoba: Oh I saw those! But what's the meaning behind them? 
+
+りん: 魔除けね。\n空港からここに来るまでに見えた、\nお家やお店なんかにも飾ってあったわよ。
+Rin: It's a talisman to ward off evil spirits. I saw some on the way here from the airport, they were at the front of houses and shops.
+
+コウ: ってことはアハゴンの家にもあるの？
+Kou: Does your house have one, Ahagon?
+
+うみこ: ええ、ありますよ。
+Umiko: Yes, we do have one.
+
+コウ: へえー、アハゴンって本当に沖縄出身だったんだ。
+Kou: Eehhh, you're really Okinawan, huh.
+
+うみこ: それ、どういう意味ですか。\nあと私のことを苗字で呼ぶのは止めてくださいと\n言っているでしょう。
+Umiko: What do you mean by that?\nAlso, I keep telling you not to call me by my last name.
+
+コウ: いーじゃん、別に。\n似合ってる名前なんだからさ～。
+Kou: Ah, it's fine, it's a good name, isn't i～t?
+
+ねね: とうちゃーく！！
+Nene: I'm he～ere!
+
+青葉: あ、ねねっち、大丈夫だった？
+Aoba: Ah, Nenecchi. Did you get on okay?
+
+ねね: 知らない土地でちょっと緊張したけど、\nまあ、これくらい余裕だよ。
+Nene: I was a little nervous, being somewhere new, but I can handle that, no problem!.
+
+うみこ: 別れてすぐに、バスの乗る場所がわからないと\nメールを出して来たのはどこの誰ですか？
+Umiko: And who sent me an email as soon as she left us because she didn't know where to get the bus?
+
+ねね: そ、それ言っちゃダメー！！
+Nene: Don't tell them that!
+
+りん: うみこちゃん、そういえば受付に\nうみこちゃん宛ての荷物が届いていたわよ。
+Rin: Umiko-chan, apparently a parcel addressed to you was delivered to reception.
+
+うみこ: そうですか、ありがとうございます。
+Umiko: Is that so? Thank you for telling me.
+
+コウ: なになに？　実家からなんか送ってもらったの？\nもしかして差し入れ？
+Kou: Ooh, what is it? Did you send stuff here from your parents? Like rations and guns...?
+
+うみこ: 違いますよ。\n実家に眠っているモデルガンを\n送って貰ったんです。
+Umiko: Of course not. I already had a model gun sent to my home.
+// TN: There's no way to have "sleeping" in the sentence while also saying that she sent the gun ahead of time.
+
+青葉: モデルガン……！？
+Aoba: Model gun?!
+
+ねね: あおっち……やっぱり……。
+Nene: Aocchi…… we were right……
+
+青葉: う、うん……。
+Aoba: Y…yep……
+
+コウ: でもさ、東京に持って帰るならここじゃなくて\n家に送って貰った方が良かったんじゃない？
+Kou: But wouldn't it be better to keep it in Tokyo than here?
+
+うみこ: ふふ、そうですね。\nでも、これはこれで使い道がありますから。
+Umiko: Hm, that's true. But, there is a reason to keep it here. 
+
+ねね: ……ど、どうしよう。\n確実に、私たちを巻き込んでサバイバルゲームを\nするつもりだよ。
+Nene: …w…what do we do? She's definitely planning to involve us in a survival game.
+
+青葉: お、落ち着いてねねっち。
+Aoba: Calm down, Nenecchi!
+
+うみこ: そうそう、桜さん。確認が取れましたので、\n知り合いの民宿へ案内します。送っていきますから\n準備をしてください。
+Umiko: By the way, Sakura-san, I was able to confirm a spare room with my acquaintance, so I'll show you to their inn. Please prepare your things.
+
+ねね: は、はい！
+Nene: O-okay!
+
+青葉: ねねっち、ねねっち。\nちょっといい？
+Aoba: Hang on a moment, Nenecchi.
+
+青葉: うみこさんのことなんだけど、\nこっちに戻る時間をちょっとでも\n稼いでもらえないかな。
+Aoba: [ COULD NOT TRANSLATE ]
+
+青葉: その間に私たちがサバイバルゲームへ\n参加しなくてもすむ案を考えておくから。
+Aoba: In the meantime, we'll think of an idea to avoid playing a survival game. 
+
+ねね: う、うん、わかった。\n頑張って引きとめてみる。
+Nene: Ok, got it. I'll try not to be influenced.
+
+うみこ: それじゃ、行きますよ桜さん。
+Umiko: Let's go, Sakura-san.
+
+ねね: じゃあ宜しくね、あおっち。
+Nene: I leave it up to you, Aocchi.
+
+りん: みんな、まずは部屋まで移動して、\n荷物整理をしてちょうだい。
+Rin: Everyone, please head to your rooms and organize your luggage.
+
+青葉: （とりあえず、ねねっちがうみこさんを引きとめて\n　くれている間に何か考えなくちゃ！）
+Aoba: （Right, while Umiko-san is busy with Nenecchi, I've got to think of something!）
+
