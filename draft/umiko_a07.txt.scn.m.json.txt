@@ -1,102 +1,103 @@
 りん: はい、旅行中はみんなでここに寝泊まりします。
-りん: はい、旅行中はみんなでここに寝泊まりします。
+Rin: Riight, this is where we'll be staying for the duration of the trip.
 
 はじめ: もしかして全員で雑魚寝ですか！
-はじめ: もしかして全員で雑魚寝ですか！
+Hajime: Are we really going to huddle together when sleeping?
 
 りん: 今回のコンセプトは、ずばり修学旅行よ。
-りん: 今回のコンセプトは、ずばり修学旅行よ。
+Rin: This concept is frankly like a school trip.
 
 コウ: 本当は予算の問題なんだろ。
-コウ: 本当は予算の問題なんだろ。
+Kou: The truth is that its a budget problem, seems like.
 
 はじめ: それめちゃくちゃいいですね！\nこれだけ広ければ枕投げできますし！
-はじめ: それめちゃくちゃいいですね！\nこれだけ広ければ枕投げできますし！
+Hajime: It's so good! You can only have pillow fights when the pillows are this wide!
 
 ゆん: 怪談とかしてもええんちゃう？\n修学旅行と言ったら定番やろ。
-ゆん: 怪談とかしてもええんちゃう？\n修学旅行と言ったら定番やろ。
+Yun: What about making ghost stories? Don't people say they're a staple of school trips?
 
 はじめ: いいねいいね！\n部屋をくら～くして懐中電灯だけつけて……\n想像しただけでもテンションあがるー！
-はじめ: いいねいいね！\n部屋をくら～くして懐中電灯だけつけて……\n想像しただけでもテンションあがるー！
+Hajime: Yes, ye-es! The room in complete darkness... Only using a flashlight... Just imagining it makes me tense!
 
 りん: 盛り上がるのはいいけど他の部屋の人に\n迷惑はかけちゃダメよ。
-りん: 盛り上がるのはいいけど他の部屋の人に\n迷惑はかけちゃダメよ。
+Rin: Being excited and all is fine, but please do not bother the people in the other rooms.
 
 りん: ここに泊まっているのは\n私たちだけじゃないんだから。
-りん: ここに泊まっているのは\n私たちだけじゃないんだから。
+Rin: We aren't the only people staying here, after all.
 
 ２人: はーい。
-２人: はーい。
+２ People: Okaーay.
 
 コウ: なあ、りん。\nこれからの予定ってどうなってるんだっけ。
-コウ: なあ、りん。\nこれからの予定ってどうなってるんだっけ。
+Kou: Hey, Rin. What's the plan from here?
 
 りん: 予定はメールで知らせたじゃない。
-りん: 予定はメールで知らせたじゃない。
+Rin: You didn't read the schedule in the email.
 
 コウ: あはは、あれは未読のままだ。\nりんに聞けばすぐわかるしいいかなって。
-コウ: あはは、あれは未読のままだ。\nりんに聞けばすぐわかるしいいかなって。
+Kou: Aah, haha, that's still unread. I always figure I'll understand by listening to you.
 
 りん: まったくもう、仕方ないわね。
-りん: まったくもう、仕方ないわね。
+Rin: Seriously... I guess it can't be helped.
 
 青葉: （サバイバルゲームに参加しないですむ方法……\n　何があるかな）
-青葉: （サバイバルゲームに参加しないですむ方法……\n　何があるかな）
+Aoba: (Avoiding a survival game...\nWhat can we do...)
 
 青葉: （うみこさんが実家から送ってもらった\n　モデルガンがなくなっちゃえば\n　参加しなくても大丈夫かな？）
-青葉: （うみこさんが実家から送ってもらった\n　モデルガンがなくなっちゃえば\n　参加しなくても大丈夫かな？）
+Aoba: （Umiko-san sent a model gun to her house, would it be fine if it disappeared?）
 
 青葉: （ううん、それだけじゃダメ。\n　うみこさんが会社で整備していたモデルガンも\n　あるはずだし）
-青葉: （ううん、それだけじゃダメ。\n　うみこさんが会社で整備していたモデルガンも\n　あるはずだし）
+Aoba: （Hmmm, no, that wouldn't be enough.\n Umiko-san kept and maintained loads of guns at work, she'd have a spare.）
 
 青葉: （あれって今、どこにあるんだろう。\n　うみこさんの荷物の中にあるのかな。\n　それも一緒に隠しちゃえばなんとかなるかも？）
-青葉: （あれって今、どこにあるんだろう。\n　うみこさんの荷物の中にあるのかな。\n　それも一緒に隠しちゃえばなんとかなるかも？）
+Aoba: (I wonder she'd keep them. Maybe in her luggage? Would it be possible for the two of us to hide them?)
 
 青葉: （あ、でもそれをするにはうみこさんの荷物を\n　探さなきゃいけないよね。\n　勝手にのぞいたら怒られないかな……）
-青葉: （あ、でもそれをするにはうみこさんの荷物を\n　探さなきゃいけないよね。\n　勝手にのぞいたら怒られないかな……）
+Aoba: (Ah, but to do that, we'd have to find Umiko-san's bags. Then she'd be furious if she found us looking through them.)
 
 コウ: なーに、難しそうな顔してるの？\nトイレ？
-コウ: なーに、難しそうな顔してるの？\nトイレ？
+Kou: Ao～ba, why the difficult face? Need the toilet?
 
 青葉: 違いますよ！　って早っ！\nもう着替えたんですか？
-青葉: 違いますよ！　って早っ！\nもう着替えたんですか？
+Aoba: No, no, it's not that!\n Have you already changed clothes, Yagami-san?
+// Technically "No, it's not that! Yet!" but thats weird
 
 コウ: 何言ってんの\n着替えてないのは青葉だけだよ。
-コウ: 何言ってんの\n着替えてないのは青葉だけだよ。
+Kou: What're you talking about? You're the only one who hasn't changed clothes.
 
 青葉: （ええ！？）
-青葉: （ええ！？）
+Aoba: (What?!)
 
 はじめ: はい、これ青葉ちゃんの分。\nＳサイズで大丈夫だよね。
-はじめ: はい、これ青葉ちゃんの分。\nＳサイズで大丈夫だよね。
+Hajime: Right, here's Aoba-chan's. S-size is fine, right?
 
 青葉: あ、はい。\nありがとうございます。
-青葉: あ、はい。\nありがとうございます。
+Aoba: Ah, right. Thank you.
 
 コウ: それよりさ、青葉。\nそれ着替えたらお風呂行こ、お風呂。\nここ露天風呂があるらしいよ。
-コウ: それよりさ、青葉。\nそれ着替えたらお風呂行こ、お風呂。\nここ露天風呂があるらしいよ。
+Kou: It's not just changing clothes, it's so we can go to the baths! This place has an open-air bath, you know.
 
 ゆん: サウナもあるらしいで。\n結構広いらしいから楽しみやな。
-ゆん: サウナもあるらしいで。\n結構広いらしいから楽しみやな。
+Yun: Also a sauna, it seems like. It looks pretty big too, so it should be fun.
 
 青葉: （私も行きたいけど、\n　うみこさんのことを考えないといけないし）
-青葉: （私も行きたいけど、\n　うみこさんのことを考えないといけないし）
+Aoba: (I also want to go, but I have to think about this Umiko-san situation.)
 
 青葉: 私は疲れちゃったので\nちょっと休んでます。
-青葉: 私は疲れちゃったので\nちょっと休んでます。
+Aoba: I'm feeling a little tired so I'm going to take a nap.
 
 りん: じゃあ私たちが出かけている間、お留守番を\nお願いしちゃってもいいかしら。
-りん: じゃあ私たちが出かけている間、お留守番を\nお願いしちゃってもいいかしら。
+Rin: Then while we're out, is it okay if you can ask for housekeeping?
 
 青葉: はい、まかせておいてください！
-青葉: はい、まかせておいてください！
+Aoba: Yep, you can leave it to me!
 
 コウ: んじゃ、みんな行こうか。\n青葉、後はよろしくねー。
-コウ: んじゃ、みんな行こうか。\n青葉、後はよろしくねー。
+Kou: Right, shall we go then? We leave it to you until we get back, Aoba.
 
 青葉: はい、行ってらっしゃい。
-青葉: はい、行ってらっしゃい。
+Aoba: Yeah, have fun!
 
 青葉: （うみこさんが帰ってくるまで後どれくらいだろ。\n　ねねっちが引きとめてくれてる間に考えなきゃ。\n　……本当にどうすればいいのかな）
-青葉: （うみこさんが帰ってくるまで後どれくらいだろ。\n　ねねっちが引きとめてくれてる間に考えなきゃ。\n　……本当にどうすればいいのかな）
+青葉: （I wonder how long until Umiko-san gets back. I have to think about this while Nenecchi is with her. What will work...）
 
