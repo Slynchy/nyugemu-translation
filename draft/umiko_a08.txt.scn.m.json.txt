@@ -1,204 +1,220 @@
 青葉: （うみこさんのモデルガン、\n　隠すならどこへ隠せばいいんだろう）
-青葉: （うみこさんのモデルガン、\n　隠すならどこへ隠せばいいんだろう）
+Aoba: (Umiko-san's model guns... if I hide it, where would I put it?)
 
 青葉: （受付に預けたらうみこさんにバレちゃう可能性が\n　あるし、かといって押入れの中だと\n　お布団出した時に見つかっちゃう）
-青葉: （受付に預けたらうみこさんにバレちゃう可能性が\n　あるし、かといって押入れの中だと\n　お布団出した時に見つかっちゃう）
+Aoba: (There's the possibility of her sniffing it out if it's left at reception... If I hide it in the closet, she'll find it when she gets her futon...)
 
 青葉: （さすがに捨てちゃうのはダメだよね。\n　いっそのこと会社に送っちゃうとか……）
-青葉: （さすがに捨てちゃうのはダメだよね。\n　いっそのこと会社に送っちゃうとか……）
+Aoba: (And of course, I can't just throw it away.\nI could send it back to the company...)
 
 青葉: （ううん、やっぱりそれもダメ。\n　会社に送ったら送ったで、誰が送ったのか\n　問題になりそう）
-青葉: （ううん、やっぱりそれもダメ。\n　会社に送ったら送ったで、誰が送ったのか\n　問題になりそう）
+Aoba: (Ah, actually no, that wouldn't work. I mail it back to the company, and she asks who sent it, it becomes a problem.
 
 青葉: （空港にコインロッカーってあったっけ。\n　ああ、でも、うみこさんに見つからないように\n　受け取るのは難しそうだよね）
-青葉: （空港にコインロッカーってあったっけ。\n　ああ、でも、うみこさんに見つからないように\n　受け取るのは難しそうだよね）
+Aoba: (The airport had coin lockers.\n Ahh, but, if she doesn't find it, it'd be hard to get it back to her.)
+// TN: not sure about this one
 
 青葉: （そう考えると、やっぱりこの辺りで\n　隠せる場所を探さないと──）
-青葉: （そう考えると、やっぱりこの辺りで\n　隠せる場所を探さないと──）
+Aoba: （I'll just have to find somewhere to hide it around here.）
 
 うみこ: おや、涼風さんひとりですか？
-うみこ: おや、涼風さんひとりですか？
+Umiko: Ah, Suzukaze-san, are you alone?
 
 青葉: ひゃぅあ！
-青葉: ひゃぅあ！
+Aoba: Hiyaaaa!!
 
 うみこ: ……なんていう声を出すんですか。
-うみこ: ……なんていう声を出すんですか。
+Umiko: ……Why did you make that noise?
 
 青葉: う、うみこさん……？\nも、もう帰ってきたんですか？\nずずず、ずいぶんと早かったですね？
-青葉: う、うみこさん……？\nも、もう帰ってきたんですか？\nずずず、ずいぶんと早かったですね？
+Aoba: U-Umiko-san……?\n Y-you're back already?\nT-that was a bit quick, w-w-wasn't it?
 
 うみこ: ええ、徒歩圏内の場所でしたから。
-うみこ: ええ、徒歩圏内の場所でしたから。
+Umiko: Yes, because the lodging was within walking distance.
 
 青葉: （ね、ねねっちのバカー！\n　時間稼いでおいてって言ったのに……\n　もっとうみこさんを引きとめておいてよ！）
-青葉: （ね、ねねっちのバカー！\n　時間稼いでおいてって言ったのに……\n　もっとうみこさんを引きとめておいてよ！）
+Aoba: （Nenecchi, you idiot!\n　I told you to buy us time…\n　To keep her distracted!）
+// TN: Maybe "Darn/damn it, Nenecchi!" ? Makes more sense but looser translation
 
 青葉: （これじゃ、今からモデルガン隠そうとしても\n　隠せないし、バレちゃうよ！）
-青葉: （これじゃ、今からモデルガン隠そうとしても\n　隠せないし、バレちゃうよ！）
+Aoba: （Now I can't hide the model gun, because if I do it now I'll be exposed!）
 
 青葉: （まだ私、何も考えてないのに。\n　うう、どうしよう……）
-青葉: （まだ私、何も考えてないのに。\n　うう、どうしよう……）
+Aoba: （And I still haven't thought of anything else.\n　Ahhh, what do I do…）
 
 うみこ: ところで、涼風さん。\n私の荷物で何か気になることでもありましたか。
-うみこ: ところで、涼風さん。\n私の荷物で何か気になることでもありましたか。
+Umiko: By the way, Suzukaze-san. Did you have any concerns with my luggage?
+// TN: Alternatively: "Did you have any reason to worry about my luggage?"
 
 青葉: な、な、な、なんですか！？
-青葉: な、な、な、なんですか！？
+Aoba: W-w-w-w-what was that?!
 
 うみこ: 涼風さんが荷物の前で百面相をしていたので。
-うみこ: 涼風さんが荷物の前で百面相をしていたので。
+Umiko: Because you were making weird faces in front of my luggage.
+// TN: Or "funny faces"
 
 青葉: そ、それは……。
-青葉: そ、それは……。
+Aoba: T-that was……
+// Decision here? "what to say"
 
 青葉: モ、モデルガンに興味があって！
-青葉: モ、モデルガンに興味があって！
+Aoba: Ah, I'm interested in model guns!
+// TN: Or "I wanted to see your model gun" or "I was interested"
 
 うみこ: ふむ、モデルガンに、ですか。
-うみこ: ふむ、モデルガンに、ですか。
+Umiko: Hm, my model gun, you say?
 
 青葉: その、うみこさん……\nさっき実家からモデルガンが送られてきたって\n言ったじゃないですか！
-青葉: その、うみこさん……\nさっき実家からモデルガンが送られてきたって\n言ったじゃないですか！
+Aoba: And Umiko-san…… Earlier you said that you sent a model gun to parents house!
 
 青葉: それで、どんなものが送られてきたんだろうって\n気になっちゃって……。
-青葉: それで、どんなものが送られてきたんだろうって\n気になっちゃって……。
+Aoba: So, I was wondering what exactly you had sent……
+// TN: Lit. "what kind of thing"
 
 青葉: で、でも荷物には触ってないです！\nごめんなさい！
-青葉: で、でも荷物には触ってないです！\nごめんなさい！
+Aoba: B-but, I didn't touch your bags!\n I'm so sorry!
 
 うみこ: そうですか。
-うみこ: そうですか。
+Umiko: Is that so.
 
 青葉: うみこさんの実家の住所をメモろうかと！
-青葉: うみこさんの実家の住所をメモろうかと！
+Aoba: I just wanted the address!
+// Start of other decision
 
 うみこ: 私の実家の住所をですか？
-うみこ: 私の実家の住所をですか？
+Umiko: My address?
 
 青葉: ほ、ほら。年賀状とか送る時に、\nうみこさんの実家の住所がわからないと\n送れないじゃないですか！
-青葉: ほ、ほら。年賀状とか送る時に、\nうみこさんの実家の住所がわからないと\n送れないじゃないですか！
+Aoba: L-like, when it's New Year's Eve, and you need to send a card. You must have made a note somewhere!
 
 うみこ: ああ、なるほど。\nですが年末年始は実家に帰省しているとは\n限らないので、送るなら私の家にしてください。
-うみこ: ああ、なるほど。\nですが年末年始は実家に帰省しているとは\n限らないので、送るなら私の家にしてください。
+Umiko: Ah, I see. But since I do not always return home for New Year's, please send them to my house.
 
 青葉: そうなんですか？
-青葉: そうなんですか？
+Aoba: You don't always come back here for New Years?
+// Loose translation, I know, but it just didn't fit to put "is that so?" or similar
 
 うみこ: ええ、どちらかと言うとその時期は\n会社で仕事をしている可能性が高いです。\n涼風さんもそのうちわかると思いますよ。
-うみこ: ええ、どちらかと言うとその時期は\n会社で仕事をしている可能性が高いです。\n涼風さんもそのうちわかると思いますよ。
+Umiko: Yes, because the chances that the company still needs to operate over that time is quite high.\n ……You'll soon understand.
 
 青葉: べべべ、別に何もやってませんよ！
-青葉: べべべ、別に何もやってませんよ！
+Aoba: I-I-I-I wasn't doing anything!
 
 うみこ: そうですか？
-うみこ: そうですか？
+Umiko: Is that so.
 
 青葉: ほ、本当です。\nぼんやり色々考えていただけで、\n特に、何かしようとしていたわけじゃないです！
-青葉: ほ、本当です。\nぼんやり色々考えていただけで、\n特に、何かしようとしていたわけじゃないです！
+Aoba: Y-yes, really. I was wondering idly about things, but I wasn't doing anything!
 
 うみこ: ……わかりました。
-うみこ: ……わかりました。
+Umiko: ……I see.
 
 うみこ: それはそうと、他の人はどこへ行ったんですか？
-うみこ: それはそうと、他の人はどこへ行ったんですか？
+うみこ: Well, where did everyone else go?
 
 青葉: え、えっと、みんなはお風呂に行ったみたいです。
-青葉: え、えっと、みんなはお風呂に行ったみたいです。
+Aoba: Uhh, it looked like everyone went to go have a bath.
 
 うみこ: 涼風さんは行かなかったんですか？
-うみこ: 涼風さんは行かなかったんですか？
+Umiko: And you didn't?
 
 青葉: わ、私はちょっと疲れちゃったので……\nあ、そうだ。うみこさんも行ってきたらどうですか。\nまだお夕飯まで時間ありますし。
-青葉: わ、私はちょっと疲れちゃったので……\nあ、そうだ。うみこさんも行ってきたらどうですか。\nまだお夕飯まで時間ありますし。
+Aoba: I-I got a little tired……\nAh, why don't you also go have a bath? We still have time until dinner.
 
 青葉: （うみこさんがお風呂に行ってくれたら、\n　その間にモデルガンを隠すことができるかも……）
-青葉: （うみこさんがお風呂に行ってくれたら、\n　その間にモデルガンを隠すことができるかも……）
+Aoba: （If Umiko-san goes to have a bath, I should have time to hide the model gun…）
 
 うみこ: そうですね、それもいいかもしれません。\nところで……。
-うみこ: そうですね、それもいいかもしれません。\nところで……。
+Umiko: Hm, that's true, it does seem nice. But...
+// Lit: "I don't know if that's good" ?
 
 青葉: な、なんでしょう。
-青葉: な、なんでしょう。
+Aoba: W...what is it?
 
 うみこ: 今日の涼風さんは少しおかしい気がします。\n何かあったのですか？
-うみこ: 今日の涼風さんは少しおかしい気がします。\n何かあったのですか？
+Umiko: Today you've been acting a bit suspicious.\nDid something happen?
 
 青葉: え、ええっと、そ、そんなことはないです！\n私は、いつも通りですよ！
-青葉: え、ええっと、そ、そんなことはないです！\n私は、いつも通りですよ！
+Aoba: Uhhhhhhhh, no, nothing happened! I'm acting normal! 
 
 うみこ: そうですか？\nそれにしては様子が──
-うみこ: そうですか？\nそれにしては様子が──
+Umiko: Is that so? It doesn't seem like-
 
 コウ: たっだいまー。
-コウ: たっだいまー。
+Kou: We're ba～ck!
 
 青葉: ええ！？　もう出たんですか！？
-青葉: ええ！？　もう出たんですか！？
+Aoba: What?! You're already back?!
 
 りん: コウちゃんは烏の行水だから。
-りん: コウちゃんは烏の行水だから。
+Rin: Because Kou-chan is a quick bather.
+// The lit translation seems better but doesn't suit Rin's character? "like a bird/crow in a bird bath"
+// Or something similar like "bathes like a bird in a bird bath. Quickly."
 
 青葉: （せっかくの温泉なのにもったいない……）
-青葉: （せっかくの温泉なのにもったいない……）
+青葉: （Seems like a waste of the baths here...）
 
 コウ: おっ、ねねちゃんのお守りお疲れさま！\n宿は大丈夫だったの？
-コウ: おっ、ねねちゃんのお守りお疲れさま！\n宿は大丈夫だったの？
+Kou: Oh, Nene-chan's protector is back, good job. Did everything go okay with the hotel?
+// Hotel or inn? 宿
 
 うみこ: まだシーズン前ですからね。
-うみこ: まだシーズン前ですからね。
+Umiko: Well, it's still before the season.
 
 コウ: そうじゃなきゃ、\nうちの予算で沖縄なんて来られるわけないか。
-コウ: そうじゃなきゃ、\nうちの予算で沖縄なんて来られるわけないか。
+Kou: I don't get how if that's the case, we had to come to Okinawa.
 
 りん: そういうことを言わないで……。
-りん: そういうことを言わないで……。
+Rin: Please don't say things like that...
 
 うみこ: それにしても、桜さんがあそこまで\n行きあたりばったりだとは思いませんでした。
-うみこ: それにしても、桜さんがあそこまで\n行きあたりばったりだとは思いませんでした。
+Umiko: Also, Sakura-san's actions to this point did not come as a surprise to me.
+// Loose translation
 
 うみこ: いえ、普段の彼女を見ていれば\n十分予測できたことだったのかもしれません。\n私の注意不足ですね。
-うみこ: いえ、普段の彼女を見ていれば\n十分予測できたことだったのかもしれません。\n私の注意不足ですね。
+Umiko: I always watch that girl, so ten minutes would suffice to predict what she'll do.\nNot listening to me enough.
 
 うみこ: これで宿が見つからなかったら、\nどうするつもりだったんでしょうか。
-うみこ: これで宿が見つからなかったら、\nどうするつもりだったんでしょうか。
+Umiko: If she couldn't find somewhere to stay, what was she going to do.
 
 青葉: 野宿とか？
-青葉: 野宿とか？
+Aoba: Sleep outside?
 
 うみこ: それは、現実的ではありません。\n今の時期なら凍死することはないでしょうが、\nハブに遭遇することもありますし。
-うみこ: それは、現実的ではありません。\n今の時期なら凍死することはないでしょうが、\nハブに遭遇することもありますし。
+Umiko: That's not practical.\nAlthough she wouldn't freeze to death in this season, and she could encounter hubs.
+// That last bit is a bit [ COULD NOT TRANSLATE ]
 
 りん: ハブって本当に結構その辺りにいるの？
-りん: ハブって本当に結構その辺りにいるの？
+Rin: Are there really hubs around here?
+// What the hell is a ハブ ?
 
 うみこ: いますよ。\n夜行性ですから日中はあまり見かけませんが、\n夜になると徘徊しています。
-うみこ: いますよ。\n夜行性ですから日中はあまり見かけませんが、\n夜になると徘徊しています。
+Umiko: There is. I'm a bit of a nocturnal, so I don't see a lot in the daytime but I do when I'm wandering around at night.
 
 うみこ: まあ、人の多いところならあまりいないので\nこの辺りならばそう危険はありませんが――
-うみこ: まあ、人の多いところならあまりいないので\nこの辺りならばそう危険はありませんが――
+Umiko: Well, if it's somewhere with a lot of people like here, there's no danger.
 
 うみこ: 桜さんは危機回避能力が低そうなので、\n野宿はやはりお勧めできませんね。
-うみこ: 桜さんは危機回避能力が低そうなので、\n野宿はやはりお勧めできませんね。
+Umiko: But Sakura-san has a habit of getting in trouble, so I don't think I can recommend her sleep outside.
 
 コウ: あはは。確かにねねちゃんは\n自分で墓穴を掘って埋まるタイプだもんね。
-コウ: あはは。確かにねねちゃんは\n自分で墓穴を掘って埋まるタイプだもんね。
+Kou: Haha! It does seem like Nene-chan is the type to dig her own grave.
 
 うみこ: 同感です。
-うみこ: 同感です。
+Umiko: Agreed.
 
 コウ: ってか青葉、まだ着替えてないの？\n浴衣楽だよ。
-コウ: ってか青葉、まだ着替えてないの？\n浴衣楽だよ。
+Kou: And Aoba, you still haven't changed? The yukatas are comfy, you know.
 
 青葉: そ、そうですよね。\nじゃあ私、ちょっと着替えてきます！
-青葉: そ、そうですよね。\nじゃあ私、ちょっと着替えてきます！
+Aoba: Ah, that's right. Then I'll quickly change!
 
 うみこ: あ……。
-うみこ: あ……。
+Umiko: Ah……
 
 コウ: どったの？
-コウ: どったの？
+Kou: What is it?
 
 うみこ: いえ、なんでもありません。
-うみこ: いえ、なんでもありません。
+Umiko: ..No, it's nothing.
 
