@@ -1,99 +1,105 @@
 青葉: （はあ……。\n　八神さんのお陰でうみこさんの追及からは\n　逃げることができたけど、これからどうしよう）
-青葉: （はあ……。\n　八神さんのお陰でうみこさんの追及からは\n　逃げることができたけど、これからどうしよう）
+Aoba: (Ahhhhh……\nThanks to Yagami-san's assistance, I was able to escape questioning from Umiko-san. But what do I do from here...)
 
 青葉: （ねねっちに連絡して相談してみたほうがいいかな。\n　向こうもそろそろ落ち着いてるだろうし）
-青葉: （ねねっちに連絡して相談してみたほうがいいかな。\n　向こうもそろそろ落ち着いてるだろうし）
+Aoba: (I should consult with Nenecchi. I wonder if things have settled with her.)
 
 コウ: お、青葉も浴衣似合うじゃん。
-コウ: お、青葉も浴衣似合うじゃん。
+Kou: Oh, the yukata suits you too, Aoba.
 
 りん: ちょっとコウちゃん。\n浴衣の前がはだけてるわよ。\nきちんとして。
-りん: ちょっとコウちゃん。\n浴衣の前がはだけてるわよ。\nきちんとして。
+Rin: One moment, Kou-chan. The front of your yukata is going out. Be careful.
 
 コウ: えー、別にいいじゃん。\nどうせうちの会社の面子しかいないんだし。
-コウ: えー、別にいいじゃん。\nどうせうちの会社の面子しかいないんだし。
+Kou: Eeh, isn't it fine? There's none of the other employees here.
+// Not sure about this one
 
 青葉: （あれ……？　うみこさんがいない。\n　さっきまで八神さんと話してたのに）
-青葉: （あれ……？　うみこさんがいない。\n　さっきまで八神さんと話してたのに）
+Aoba: （Huh……？　Umiko-san isn't here。\n　She was talking to Yagami-san until a moment ago.）
 
 青葉: あの、うみこさんは？
-青葉: あの、うみこさんは？
+Aoba: Um, where is Umiko-san?
 
 コウ: ああ、アハゴンなら夕飯まで時間あるから\nお風呂行ってくるって言ってたよ。
-コウ: ああ、アハゴンなら夕飯まで時間あるから\nお風呂行ってくるって言ってたよ。
+Kou: Ah, if you mean Ahagon, she still had time until dinner\nso she said she was going to take a bath.
 
 青葉: （よかった、それならしばらくの間\n　どうするか考えることができる）
-青葉: （よかった、それならしばらくの間\n　どうするか考えることができる）
+Aoba: （That's good、 it gives me time to think.）
 
 青葉: （でも、荷物を隠すにしても\n　八神さんや葉月さんのいる前でうみこさんの\n　荷物を移動させるわけにもいかないし……）
-青葉: （でも、荷物を隠すにしても\n　八神さんや葉月さんのいる前でうみこさんの\n　荷物を移動させるわけにもいかないし……）
+Aoba: （But, I can't hide Umiko-san's baggage in front of Yagami-san and Hazuki-san…）
 
 青葉: （あれ、誰からだろ。\n　お母さんかな？）
-青葉: （あれ、誰からだろ。\n　お母さんかな？）
+Aoba: （Huh? Who was it? Her mother?）
+// not sure about this
 
 ねねっち: 『うみこさんが紹介してくれた民宿、\n　すっごく素敵な場所だよ！\n　目の前に海が見えるの！　綺麗だよー！』
-ねねっち: 『うみこさんが紹介してくれた民宿、\n　すっごく素敵な場所だよ！\n　目の前に海が見えるの！　綺麗だよー！』
+Nenecchi: 『Umiko-san took me to a private inn、\n　it's such a nice place！\nI can see the ocean right in front of me! So pretty!』
+// Bed and breakfast?
 
 青葉: こ、こっちの苦労もしらないで……！
-青葉: こ、こっちの苦労もしらないで……！
+Aoba: You also don't have the problems we have here...
+// Loose but eh
 
 はじめ: ふー、気持ちよかったぁ。\nやっぱりお風呂の後は冷たい水だよね。
-はじめ: ふー、気持ちよかったぁ。\nやっぱりお風呂の後は冷たい水だよね。
+Hajime: Ahh, that felt so niiice. You really have to use the cold water afterwards, huh.
 
 ゆん: う～……。
-ゆん: う～……。
+Yun: Uuuuuuuuuuuuu...
 
 りん: どうしたの、ゆんちゃん。\n顔が赤いけど。
-りん: どうしたの、ゆんちゃん。\n顔が赤いけど。
+Rin: What's wrong, Yun-chan? Your face looks a bit red.
 
 はじめ: ああ、ゆんってばサウナにずっと入ってたせいで\nのぼせちゃったんですよ。\nほら、もう少し水飲みなよ。
-はじめ: ああ、ゆんってばサウナにずっと入ってたせいで\nのぼせちゃったんですよ。\nほら、もう少し水飲みなよ。
+Hajime: Ah, Yun spent too long in the sauna, so she's all dizzy. Hey, Yun, drink some more water. 
 
 ゆん: ん、ありがと。
-ゆん: ん、ありがと。
+Yun: Mm, thanks.
 
 コウ: まったく、そんなになるまで\nサウナに入らなくてもいいのに。
-コウ: まったく、そんなになるまで\nサウナに入らなくてもいいのに。
+Kou: This is why you don't go into the sauna before you're ready.
+// Kinda loose
 
 ゆん: ウチにはウチの戦いがあるんです……。
-ゆん: ウチにはウチの戦いがあるんです……。
+Yun: This is my fight…
+// REALLY NOT SURE ABOUT THIS ONE
 
 ひふみ: ただいま……。
-ひふみ: ただいま……。
+Hifumi: I'm back.
 
 青葉: あ、お帰りなさい。ひふみ先輩。
-青葉: あ、お帰りなさい。ひふみ先輩。
+Aoba: Ah, welcome back, Hifumi-senpai.
 
 ひふみ: 青葉ちゃん、どうしたの？
-ひふみ: 青葉ちゃん、どうしたの？
+Hifumi: Aoba-chan, what's wrong?
 
 青葉: え？　どうしてですか？
-青葉: え？　どうしてですか？
+Aoba: Huh? Why do you ask?
 
 ひふみ: なんだか……疲れた顔……してるから。
-ひふみ: なんだか……疲れた顔……してるから。
+Hifumi: Just…… you were…… making a tired face.
 
 りん: あら、本当。\nちょっと顔色がよくないみたいだけど大丈夫？
-りん: あら、本当。\nちょっと顔色がよくないみたいだけど大丈夫？
+Rin: Ah, that's right. You're not looking well. Are you okay?
 
 はじめ: もしかして体調悪い？
-はじめ: もしかして体調悪い？
+Hajime: Are you maybe feeling ill?
 
 青葉: そういうわけじゃないんですけど、\nその……ちょっと考えてることがあって。
-青葉: そういうわけじゃないんですけど、\nその……ちょっと考えてることがあって。
+Aoba: No, it's nothing like that! I'm just... thinking about something.
 
 コウ: 考えてること？
-コウ: 考えてること？
+Kou: Thinking about something?
 
 青葉: （このまま私１人で考えていても、\n　うみこさんが帰ってきちゃってどうしようも\n　なくなっちゃう気がする）
-青葉: （このまま私１人で考えていても、\n　うみこさんが帰ってきちゃってどうしようも\n　なくなっちゃう気がする）
+Aoba: （If I just keep thinking by myself、\n　Umiko-san's gonna come back,\nand I won't have done anything.）
 
 青葉: （ねねっちは頼りにならないし。\n　それなら、いっそのことみんなに相談して\n　しまえば……）
-青葉: （ねねっちは頼りにならないし。\n　それなら、いっそのことみんなに相談して\n　しまえば……）
+Aoba: （I can't rely on Nenecchi,\n　so maybe I should consult with the others…）
 
 青葉: あの、実は……。
-青葉: あの、実は……。
+Aoba: Uh, actually...
 
 青葉: （そして、私は今まで悩んでいたことを\n　みんなに話始めたのだった──）
-青葉: （そして、私は今まで悩んでいたことを\n　みんなに話始めたのだった──）
+Aoba: （And so I told everyone what I was worrying about...）
 
