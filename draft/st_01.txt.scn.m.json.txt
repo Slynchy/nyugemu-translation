@@ -1,465 +1,490 @@
 null: プロローグをスキップしますか？
-null: プロローグをスキップしますか？
+null: Do you want to skip the prologue?
 
 青葉: （ふう、やっぱり満員電車は苦手だな。\n　まだ慣れないや)
-青葉: （ふう、やっぱり満員電車は苦手だな。\n　まだ慣れないや)
+青葉: （Fuu, I'm really bad with packed trains。\n　I'm still not used to them。)
 
 青葉: （私、涼風　青葉は、\n　この春、社会人になって\n　大人の仲間入りをしました）
-青葉: （私、涼風　青葉は、\n　この春、社会人になって\n　大人の仲間入りをしました）
+Aoba: （Me, Suzukaze Aoba, 、\n　this summer, became a member of society,\n　and joined everyone else in adulthood.）
 
 青葉: （就職先は、なんとゲーム会社！\n　しかも、大好きなフェアリーズストーリーを作った\n　憧れの会社です！）
-青葉: （就職先は、なんとゲーム会社！\n　しかも、大好きなフェアリーズストーリーを作った\n　憧れの会社です！）
+Aoba: （These offices are home to a great games company!\n　Also, the company that made Fairy's Story, my favourite game!）
+// loose translation
 
 青葉: （お仕事はキャラモデラーだけど、\n　目指すはキャラクターデザイナー！）
-青葉: （お仕事はキャラモデラーだけど、\n　目指すはキャラクターデザイナー！）
+Aoba: （My job is character modeller、\n　but my goal is to be a character designer！）
 
 青葉: （いつかは、私がデザインしたキャラクターたちが\n　活躍するゲームを作りたい！）
-青葉: （いつかは、私がデザインしたキャラクターたちが\n　活躍するゲームを作りたい！）
+Aoba: （Someday, I want to design characters for a successful game!）
 
 青葉: （もちろん、今はまだ\n　言われたことをこなすのが精一杯だけど――）
-青葉: （もちろん、今はまだ\n　言われたことをこなすのが精一杯だけど――）
+Aoba: （Of course, for now,\n　I'm working my hardest on what I'm told.）
 
 青葉: （先輩たちに色々教えてもらって、\n　少しずつ前進している……はずです）
-青葉: （先輩たちに色々教えてもらって、\n　少しずつ前進している……はずです）
+Aoba: （My senpai's taught me a variety of things、\n　so I should be moving closer to that goal...）
+// Loose?
 
 青葉: （そんな忙しい日々を送っているうちに、\n　いつの間にかスーツの上着が\n　いらない季節になっていました）
-青葉: （そんな忙しい日々を送っているうちに、\n　いつの間にかスーツの上着が\n　いらない季節になっていました）
+Aoba: （While I was living these busy days、\n　before I knew it, it was past the season for wearing a suit jacket.）
 
 青葉: （今、チームで作っているゲーム、\n　フェアリーズストーリー３も\n　完成に向けてラストスパートに入った感じです！）
-青葉: （今、チームで作っているゲーム、\n　フェアリーズストーリー３も\n　完成に向けてラストスパートに入った感じです！）
+Aoba: （Right now, the game that my team is making、\n　Fairy's Story 3、\n　feels like its in the last phase till completion!）
 
 青葉: （よーし！\n　涼風　青葉、今日もがんばりますっ！）
-青葉: （よーし！\n　涼風　青葉、今日もがんばりますっ！）
+Aoba: （Right！\n　Suzukaze Aoba、 today's another day to try your hardest！）
 
 ねね: うう……。\nあおっちぃ、もう疲れたよぉ。
-ねね: うう……。\nあおっちぃ、もう疲れたよぉ。
+Nene: Uuuuuu……。\nAocchi、 I'm already tired……。
 
 青葉: …………。
-青葉: …………。
+Aoba: …………。
 
 青葉: もう、まだ会社についてもいないよ？
-青葉: もう、まだ会社についてもいないよ？
+Aoba: Even though…… we're not even in the office yet?
 
 ねね: だって、こんなに早起きして満員電車とか\nつらすぎる……。
-ねね: だって、こんなに早起きして満員電車とか\nつらすぎる……。
+Nene: But, I wake up early and then the crowded trains are too painful…。
 
 ねね: でも、あおっちは割と平気そうだね。
-ねね: でも、あおっちは割と平気そうだね。
+Nene: Aocchi seems fine, though.
 
 青葉: ま、まあね！\nこのくらい、当然だよ！
-青葉: ま、まあね！\nこのくらい、当然だよ！
+Aoba: Ah- aaah, yeah! I don't mind this, it just comes naturally!
 
 青葉: （まだ慣れないって思ったのは\n　秘密にしておこう）
-青葉: （まだ慣れないって思ったのは\n　秘密にしておこう）
+Aoba: （I'll just keep it secret that I'm still not used to it...）
 
 青葉: （ねねっち――\n　桜　ねねは、私の友達です）
-青葉: （ねねっち――\n　桜　ねねは、私の友達です）
+Aoba: （Nenecchi...\n　Sakura Nene, my friend.）
 
 青葉: （就職した私と違って大学生だけど、今は夏休み。\n　その時間で、うちの会社まで\n　デバッグのアルバイトに来てくれています）
-青葉: （就職した私と違って大学生だけど、今は夏休み。\n　その時間で、うちの会社まで\n　デバッグのアルバイトに来てくれています）
+Aoba: （Unlike me who found a job after highschool, she's a university student. And it's summer vacation,\n　so she came to my company to do part-time debugging and testing.）
 
 ねね: そういえば、今日はどうして早く行くの？
-ねね: そういえば、今日はどうして早く行くの？
+Nene: That reminds me, why did you want to come in so early today?
 
 青葉: ちょっと作業が遅れてるから取り戻そうと思って。
-青葉: ちょっと作業が遅れてるから取り戻そうと思って。
+Aoba: I've fallen a bit behind on my work, so I thought I'd make up for it.
 
 ねね: ふーん。\nあおっち、いつの間にか\n社会人になっちゃったんだね。
-ねね: ふーん。\nあおっち、いつの間にか\n社会人になっちゃったんだね。
+Nene: Fuuuuu…。\nAocchi、 when did you become such an adult?
+// not adult literally but doesn't translate well literally
 
 青葉: わ、私もうとっくに社会人になってるよ～っ！
-青葉: わ、私もうとっくに社会人になってるよ～っ！
+Aoba: I-I've been an adult for a while, you know!
 
 青葉: で、でも、別に、ねねっちは\n付き合わなくてもよかったのに。
-青葉: で、でも、別に、ねねっちは\n付き合わなくてもよかったのに。
+Aoba: That's not the point though. You know it's fine if you don't come along with me.
+// Alt/Lit: B-but, that's not the point. You don't have to accompany me.
 
 ねね: だって、せっかく高校生の時みたいに\n同じ所に通うんだから、一緒がいいなって……。
-ねね: だって、せっかく高校生の時みたいに\n同じ所に通うんだから、一緒がいいなって……。
+Nene: But, it feels like we're highschool seniors again, walking to the same place, so it's fine...
 
 ねね: や、やっぱりなんでもない！\nそうだ、私、朝ご飯食べてないから\nどこかで食べてから行く！
-ねね: や、やっぱりなんでもない！\nそうだ、私、朝ご飯食べてないから\nどこかで食べてから行く！
+Nene: A-actually nevermind!\nOh, that's right, I haven't eaten yet,\nso I'm gonna go grab something!
 
 青葉: え？　食べてなかったの？
-青葉: え？　食べてなかったの？
+Aoba: Huh? You didn't eat?
 
 ねね: だって、あおっちが朝早すぎるんだもん。\nじゃ、後で！
-ねね: だって、あおっちが朝早すぎるんだもん。\nじゃ、後で！
+Nene: Aocchi was too early this morning!\nSee ya later！
 
 青葉: 遅刻しちゃダメだよ？\nうみこさんに怒られても知らないからね。
-青葉: 遅刻しちゃダメだよ？\nうみこさんに怒られても知らないからね。
+Aoba: Don't be late, okay?\nI think Umiko-san will be mad if you are.
 
 ねね: わかってるよ～だ！
-ねね: わかってるよ～だ！
+Nene: Got iiiiiiii～t!
 
 青葉: （思ったよりも早く着けた！\n　少しでも遅れを取り戻さなくちゃ）
-青葉: （思ったよりも早く着けた！\n　少しでも遅れを取り戻さなくちゃ）
+Aoba: （I arrived earlier than I thought!\nBut I should still catch up on my work.）
+// Second part pretty loose
 
 青葉: （まだ誰もいないみたい。\n　泊まりの人がいたとしても、まだ寝てるのかな）
-青葉: （まだ誰もいないみたい。\n　泊まりの人がいたとしても、まだ寝てるのかな）
+Aoba: （Looks like no one's in the office yet.\nIf someone's here they're probably still sleeping.）
 
 青葉: （あ、でも、コーヒーの香りがする。\n　誰かが来てはいるみたい）
-青葉: （あ、でも、コーヒーの香りがする。\n　誰かが来てはいるみたい）
+Aoba: （Ah, but I can smell coffee.\n So someone must be here.）
 
 青葉: （さあ、やることがいっぱいだ！\n　まず村人のモデルのエラーを修正して、\n　それから……）
-青葉: （さあ、やることがいっぱいだ！\n　まず村人のモデルのエラーを修正して、\n　それから……）
+Aoba: （Right, there's a lot to do!\n　First, correcting the errors in the villager models, and after that...）
 
 ？？？: ううーん……。
-？？？: ううーん……。
+？？？: Uuuuuuuuu……。
 
 青葉: （……え？）
-青葉: （……え？）
+Aoba: （……Eh？）
 
 ？？？: もうむりぃ……げんかいだよぉ……。
-？？？: もうむりぃ……げんかいだよぉ……。
+？？？: I can't... guards...
 
 青葉: （この声は……もしかして……）
-青葉: （この声は……もしかして……）
+Aoba: （That voice…… is it really……）
 
 青葉: （や、やっぱり、八神さん！？\n　昨日も泊まりだったんだ）
-青葉: （や、やっぱり、八神さん！？\n　昨日も泊まりだったんだ）
+Aoba: （It-it really is Yagami-san！？\n She must have stayed overnight again.）
 
 青葉: （八神　コウさん。\n　私の上司に当たる人で、\n　キャラクターデザイナーです）
-青葉: （八神　コウさん。\n　私の上司に当たる人で、\n　キャラクターデザイナーです）
+Aoba: （Yagami Kou-san。\n　The woman you can see is my boss, and a character designer.）
 
 青葉: （フェアリーズストーリーのキャラデザも\n　担当している、尊敬する大先輩！）
-青葉: （フェアリーズストーリーのキャラデザも\n　担当している、尊敬する大先輩！）
+Aoba: （Fairy's Story 3's character designer, in charge of the project too. A senpai I greatly respect！）
 
 青葉: （私がキャラクターデザイナーを目指す\n　きっかけとなった人、なのですが……）
-青葉: （私がキャラクターデザイナーを目指す\n　きっかけとなった人、なのですが……）
+Aoba: （And most importantly, the person who inspires me to become a character designer.）
+// very loose
 
 コウ: う～ん……。
-コウ: う～ん……。
+Kou: Uuuuuuuu……。
 
 青葉: （またこんな格好で寝てる。\n　満員電車もだけど、これも慣れないよ。\n　な、慣れちゃいけない気もするけど）
-青葉: （またこんな格好で寝てる。\n　満員電車もだけど、これも慣れないよ。\n　な、慣れちゃいけない気もするけど）
+Aoba: （She's sleeping that way again。\n　Sure there's the crowded trains, but I can't get used to this。\n　I probably shouldn't get used to it.）
+// Not sure about this
 
 青葉: （……どうしよう？）
-青葉: （……どうしよう？）
+Aoba: （……What do I do？）
 
 青葉: （ズボンを用意しておこう。\n　八神さんが、いつ目が覚めてもいいように）
-青葉: （ズボンを用意しておこう。\n　八神さんが、いつ目が覚めてもいいように）
+Aoba: （I should get her trousers for her。\n　For whenever she wakes up.）
+// alt: pants, just doing trousers because inevitably will be mostly british
 
 青葉: （ええと、ズボン、ズボン……）
-青葉: （ええと、ズボン、ズボン……）
+Aoba: （Hmm, trousers… trousers……）
 
 青葉: （あったけど、だらしなく放り出して……。\n　八神さんの部屋って、どうなってるのかな？）
-青葉: （あったけど、だらしなく放り出して……。\n　八神さんの部屋って、どうなってるのかな？）
+Aoba: （Here they are, thrown carelessly to the side...\n Yagami-san, is this how treat your bedroom?）
+// second part loose
 
 青葉: （なにか、かけてあげよう。\n　この季節だって、この格好じゃ風邪を引いちゃう）
-青葉: （なにか、かけてあげよう。\n　この季節だって、この格好じゃ風邪を引いちゃう）
+Aoba: （It looks kinda like she's galloping。\n　But even in this season, she could catch a cold like that.）
+// Really not sure about that first part
 
 青葉: （でも、なにかあったかな？\n　上着を着てたら脱いでかけるんだけど）
-青葉: （でも、なにかあったかな？\n　上着を着てたら脱いでかけるんだけど）
+Aoba: （But, was there anything？\n　I could put my coat over her…… ）
+// COULD NOT TRANSLATE SECOND PART
 
 青葉: （よし、今度のために\n　八神さん用になにか持ち込んでおこう）
-青葉: （よし、今度のために\n　八神さん用になにか持ち込んでおこう）
+Aoba: （Right, next time I'll bring something for Yagami-san.）
 
 青葉: （み、見なかったことにしよう。\n　私はなーんにも見てませーん、見えてませーん）
-青葉: （み、見なかったことにしよう。\n　私はなーんにも見てませーん、見えてませーん）
+Aoba: （み、見なかったことにしよう。\n　I have not seen anything, I cannot seeーe...）
+// [COULD NOT TRANSLATE] 
 
 コウ: たすけてぇ……。\nおわらないよぉ……。
-コウ: たすけてぇ……。\nおわらないよぉ……。
+Kou: He-elp……。\nIt won't end……。
 
 青葉: （私はなーんにも聞いてませーん、\n　聞こえてませーん）
-青葉: （私はなーんにも聞いてませーん、\n　聞こえてませーん）
+Aoba: （I have not heard anything、\n　I cannot hear anythiーing...）
 
 コウ: ううーん……ううううーん……。
-コウ: ううーん……ううううーん……。
+Kou: Uuuuuuu... uuuuuuuuu...
 
 青葉: （だ、ダメだぁ～！\n　このままだと仕事に集中できない！）
-青葉: （だ、ダメだぁ～！\n　このままだと仕事に集中できない！）
+Aoba: （Argh, it's no use！\n　I can't concentrate on my work like this!）
 
 りん: あら？\nおはよう青葉ちゃん、早いわね。
-りん: あら？\nおはよう青葉ちゃん、早いわね。
+Rin: Oh, good morning Aoba-chan. You're here early.
 
 青葉: わっ！？\nお、おはようございます、遠山さん！
-青葉: わっ！？\nお、おはようございます、遠山さん！
+Aoba: Waa！？\nOh, good morning, Toyama-san！
 
 りん: コウちゃん、またこんな格好で寝て。\n本当に困るわねぇ。
-りん: コウちゃん、またこんな格好で寝て。\n本当に困るわねぇ。
+Rin: Kou-chan's sleeping like that again?\nReally troubling, isn't it...。
 
 青葉: （遠山　りんさん。\n　ＡＤで、私たちグラフィックチームの\n　リーダーと言える人です）
-青葉: （遠山　りんさん。\n　ＡＤで、私たちグラフィックチームの\n　リーダーと言える人です）
+Aoba: （Toyama Rin-san。\n　An AD、 and our graphic team's leader.）
 
 青葉: （あ、ＡＤはアシスタントじゃなくて\n　アートディレクターですよ？\n　……私は最初、間違えちゃったけど）
-青葉: （あ、ＡＤはアシスタントじゃなくて\n　アートディレクターですよ？\n　……私は最初、間違えちゃったけど）
+Aoba: （Ah, and the AD doesn't stand for assistant director.\n　It stands for art director.\n　……I made that mistake when I first started.）
 
 青葉: （八神さんとは同期で、\n　おふたりはとっても仲良しなんです）
-青葉: （八神さんとは同期で、\n　おふたりはとっても仲良しなんです）
+Aoba: （She joined at the same time as Yagami-san、\n　and they're really close friends.）
+// Double check
 
 りん: ほら、コウちゃん。\n起きて。
-りん: ほら、コウちゃん。\n起きて。
+Rin: Hey, Kou-chan, wake up.
 
 コウ: ううん……？
-コウ: ううん……？
+Kou: Uuuuuuu……？
 
 コウ: あ、おはよー、りん。\n青葉も、おはよー。
-コウ: あ、おはよー、りん。\n青葉も、おはよー。
+Kou: Ah, mornin' Rin。\nAoba too, morning.
 
 青葉: おはようございます！
-青葉: おはようございます！
+Aoba: Good morning！
 
 りん: おはよう。\nはい、コーヒー。
-りん: おはよう。\nはい、コーヒー。
+Rin: Morning。\nHere、 I made coffee。
 
 コウ: サンキュー。
-コウ: サンキュー。
+Kou: Arigatoーou。
 
 青葉: （あ、さっきのコーヒーの香り、\n　遠山さんだったんだ）
-青葉: （あ、さっきのコーヒーの香り、\n　遠山さんだったんだ）
+Aoba: （Ah, that coffee smell from earlier、\n　that must have been Toyama-san.）
 
 コウ: 青葉、今日は早いね。\n遅れの分？
-コウ: 青葉、今日は早いね。\n遅れの分？
+Kou: Aoba, you're in early today。\nCatching up on your delays？
 
 青葉: あ、はい！\nすみません、今から取り戻します！
-青葉: あ、はい！\nすみません、今から取り戻します！
+Aoba: Ah, yes！\nSorry、 I will catch up now！
 
 コウ: うん、よろしく。\nがんばって。
-コウ: うん、よろしく。\nがんばって。
+Kou: Right, I leave it to you。\nDo your best。
 
 りん: コウちゃん、他のみんなが来る前に\nちゃんと身支度してよ？
-りん: コウちゃん、他のみんなが来る前に\nちゃんと身支度してよ？
+Rin: Kou-chan、 are you going to get dressed before everyone else arrives?
 
 コウ: へいへーい。
-コウ: へいへーい。
+Kou: Yeah, yeeah。
 
 青葉: （八神さん、ちゃんと私の進捗も\n　把握してるし……）
-青葉: （八神さん、ちゃんと私の進捗も\n　把握してるし……）
+Aoba: （Yagami-san、 is she taking my progress seriously……）
+// COULD NOT TRANSLATE not sure
 
 青葉: （朝はこんな感じだけど、\n　やっぱり、しっかりしてるなぁ）
-青葉: （朝はこんな感じだけど、\n　やっぱり、しっかりしてるなぁ）
+Aoba: （It is the morning after all、\n　but normally you're more serious）
+// Double check this one
 
 りん: 青葉ちゃんもコーヒー、どう？
-りん: 青葉ちゃんもコーヒー、どう？
+Rin: Aoba-chan、 would you like some coffee also？
 
 青葉: あ、えっと、いただきます。
-青葉: あ、えっと、いただきます。
+Aoba: Ah, uhh, thank you。
+// loose
 
 りん: ミルクと砂糖入りで、いいかしら？
-りん: ミルクと砂糖入りで、いいかしら？
+Rin: It has milk and sugar, I hope that's okay.
 
 青葉: はい……。
-青葉: はい……。
+Aoba: Yes…。
 
 コウ: なんだ、ブラックじゃないんだ～。\n大人だからって見栄張るのはやめたの？
-コウ: なんだ、ブラックじゃないんだ～。\n大人だからって見栄張るのはやめたの？
+Kou: Hey, you're not drinking black～。\nYou finally stopped trying to look like an adult?
 
 青葉: もう！　そのことは忘れてくださいっ！
-青葉: もう！　そのことは忘れてくださいっ！
+Aoba: Jeez！　Please forget about that！
 
 ゆん: おはようございます。
-ゆん: おはようございます。
+Yun: Good morning。
 
 青葉: おはようございます！
-青葉: おはようございます！
+Aoba: Good morning！
 
 ゆん: 青葉ちゃん、今日も元気やねぇ。
-ゆん: 青葉ちゃん、今日も元気やねぇ。
+Yun: Aoba-chan、 you've got energy today too, huh。
 
 青葉: （飯島　ゆんさん。\n　先輩で、私と同じグラフィッカーです）
-青葉: （飯島　ゆんさん。\n　先輩で、私と同じグラフィッカーです）
+Aoba: （Iijima Yun-san。\n　My senpai, and also a graphics artist.）
 
 青葉: （席もお隣で、休憩時間にお茶を用意してくれたり、\n　他にも色々と面倒を見てくれる、\n　とっても優しい先輩です）
-青葉: （席もお隣で、休憩時間にお茶を用意してくれたり、\n　他にも色々と面倒を見てくれる、\n　とっても優しい先輩です）
+Aoba: （She sits next to me、 and prepares tea at breaktimes.\n　She also takes care of other things too.\n　Truly a great senpai.）
+// Check second part
 
 はじめ: おはよう！\nお、ゆんも今来たとこ？
-はじめ: おはよう！\nお、ゆんも今来たとこ？
+Hajime: G'morning!\nOh, Yun also just got here？
 
 青葉: おはようございます、はじめさん。
-青葉: おはようございます、はじめさん。
+Aoba: Good morning, Hajime-san.
 
 青葉: （この人は、篠田　はじめさん。\n　ゆんさんとは同期なんだそうです）
-青葉: （この人は、篠田　はじめさん。\n　ゆんさんとは同期なんだそうです）
+Aoba: （This person is Shinode Hajime-san.\n　She seems to be in sync with Yun-san.）
+// Check second part
 
 青葉: （席は私の真後ろだけど、仕事は違って、\n　モーション……３Ｄのキャラクターに\n　動きをつける仕事をしています）
-青葉: （席は私の真後ろだけど、仕事は違って、\n　モーション……３Ｄのキャラクターに\n　動きをつける仕事をしています）
+Aoba: （Even though she sits behind me、 her work is different.\n　3D Character Animator.\n　Her job is to create motion.）
 
 ゆん: おはよう。\nなんや、はじめ、汗だくやん。\n熱中症に気ぃつけや？
-ゆん: おはよう。\nなんや、はじめ、汗だくやん。\n熱中症に気ぃつけや？
+Yun: Mornin'。\nAh-、 Hajime、 you're all sweaty。\nAren't you worried about sunstroke？
 
 はじめ: 大丈夫大丈夫！\nちゃんと水分補給しながら走ってるから。
-はじめ: 大丈夫大丈夫！\nちゃんと水分補給しながら走ってるから。
+Hajime: It's fine, it's fine！\n Because I stay hydrated while I'm running.
 
 青葉: はじめさん、暑くなっても自転車通勤なんですね。
-青葉: はじめさん、暑くなっても自転車通勤なんですね。
+Aoba: Hajime-san、 even in this heat you're cycling to work.
 
 はじめ: まあね、もう習慣だし。\nゆんも青葉ちゃんも、運動不足には気をつけなよ？
-はじめ: まあね、もう習慣だし。\nゆんも青葉ちゃんも、運動不足には気をつけなよ？
+Hajime: Ah, I guess, it's just a habit now for me.\n Aren't you and Yun worried about not getting enough exercise? 
 
 ゆん: うっ……。\n余計なお世話や。
-ゆん: うっ……。\n余計なお世話や。
+Yun: Uhh……。\nI don't need any help.
+// Check this one
 
 はじめ: あれ？　なんで腕、さすってるの？
-はじめ: あれ？　なんで腕、さすってるの？
+Hajime: Eh？　Why are you rubbing your arms?
 
 ゆん: なんでもない！\nさあ、今日も仕事が山積みや～！
-ゆん: なんでもない！\nさあ、今日も仕事が山積みや～！
+Yun: Never mind！\nNow come on, we've got piles of work today, too.
 
 ひふみ: ……おはようございます。
-ひふみ: ……おはようございます。
+Hifumi: ……good morning。
 
 青葉: ひふみ先輩！\nおはようございます。
-青葉: ひふみ先輩！\nおはようございます。
+Aoba: Hifumi-senpai！\nGood morning。
 
 青葉: （滝本　ひふみさん。\n　グラフィッカーで、\n　ゆんさんたちよりももっと先輩です）
-青葉: （滝本　ひふみさん。\n　グラフィッカーで、\n　ゆんさんたちよりももっと先輩です）
+Aoba: （Takimoto Hifumi-san。\n　Another 3D artist、\n　but with more seniority than Yun-san.）
 
 青葉: （ちょっぴり口下手で、直接じゃなくて\n　社内メッセージで話すことが多いけど、\n　色々教えてくれたり、とっても親切なんですよ）
-青葉: （ちょっぴり口下手で、直接じゃなくて\n　社内メッセージで話すことが多いけど、\n　色々教えてくれたり、とっても親切なんですよ）
+Aoba: （She's a little bit bad at talking to people、 especially not in person.　So we often talk to eachother via chat.　She's taught me so much. She's a really kind person.）
 
 青葉: （ひふみ先輩とゆんさん、私、\n　そして八神さんの４人がキャラ班）
-青葉: （ひふみ先輩とゆんさん、私、\n　そして八神さんの４人がキャラ班）
+Aoba: （Hifumi-senpai and Yun-san、 myself,　and of course Yagami-san, make up the four-person character art team.）
 
 青葉: （はじめさんは、同じブースだけど\n　モーション班に所属しています）
-青葉: （はじめさんは、同じブースだけど\n　モーション班に所属しています）
+Aoba: （Although Hajime-san is in the same booth,\n　she belongs to the motion team.）
 
 ひふみ: あの、青葉ちゃん。\n葉月さんが……。
-ひふみ: あの、青葉ちゃん。\n葉月さんが……。
+Hifumi: Um, Aoba-chan。\nHazuki-san……。
 
 青葉: え？　葉月さんがどうかしたんですか？
-青葉: え？　葉月さんがどうかしたんですか？
+Aoba: Eh？　What about Hazuki-san？
 
 うみこ: お話中すみません。\n涼風さん、少しいいですか？
-うみこ: お話中すみません。\n涼風さん、少しいいですか？
+Umiko: Sorry to interrupt your conversation。\nSuzukaze-san、 have you got a moment？
 
 青葉: あれ、うみこさん？\nおはようございます。
-青葉: あれ、うみこさん？\nおはようございます。
+Aoba: Umiko-san？ Good morning。
 
 青葉: （阿波根　うみこさん。\n　私たちグラフィックチームの人ではなく\n　プログラマーです）
-青葉: （阿波根　うみこさん。\n　私たちグラフィックチームの人ではなく\n　プログラマーです）
+Aoba: （Ahagon Umiko-san.\n　She's not on any of the art teams. She's a programmer.）
 
 青葉: （変わった苗字なのは沖縄出身だから。\n　でも、苗字で呼ばれるのが嫌だそうで、\n　みんな下の名前で呼んでいます）
-青葉: （変わった苗字なのは沖縄出身だから。\n　でも、苗字で呼ばれるのが嫌だそうで、\n　みんな下の名前で呼んでいます）
+Aoba: （Her strange family name is because she's from Okinawa.\n　But, she seems to hate being called by her family name, so everyone uses her first name.）
 
 青葉: （デバッグチームの担当は\n　うみこさんで、ねねっちが\n　色々とお世話になっているみたい……）
-青葉: （デバッグチームの担当は\n　うみこさんで、ねねっちが\n　色々とお世話になっているみたい……）
+Aoba: （She's in charge of the debugging team.\n Nenecchi seems to be indebted to her for various things…）
+// Check
 
 うみこ: 桜さんがまだ来ないのですが、\nなにか知りませんか？
-うみこ: 桜さんがまだ来ないのですが、\nなにか知りませんか？
+Umiko: Sakura-san hasn't arrived yet. Do you know why that might be?
 
 青葉: あれっ！？\n来てないんですか？
-青葉: あれっ！？\n来てないんですか？
+Aoba: Eh！？\nShe hasn't arrived yet?
 
 青葉: （まさか、まだご飯食べてるの？\n　いくらなんでも、そこまで\n　のんびりじゃないと思うんだけど）
-青葉: （まさか、まだご飯食べてるの？\n　いくらなんでも、そこまで\n　のんびりじゃないと思うんだけど）
+Aoba: （You aren't really still eating, Nenecchi？\n　Whatever the circumstances are, I think you can't relax on your way here.）
 
 ひふみ: あ、あの……。
-ひふみ: あ、あの……。
+Hifumi: U…uh…。
 
 うみこ: どうかしましたか？
-うみこ: どうかしましたか？
+Umiko: What is it?
 
 ひふみ: ねねちゃんと葉月さんが\nもずくと遊んでるけど……いいのかなって。
-ひふみ: ねねちゃんと葉月さんが\nもずくと遊んでるけど……いいのかなって。
+Hifumi: Nene-chan and Hazuki-san were playing with Mozuku…… that should be okay.
+// Check!
 
 青葉: ええっ！？
-青葉: ええっ！？
+Aoba: Ehhh！？
 
 うみこ: ……なるほど。\n来てはいるわけですか。
-うみこ: ……なるほど。\n来てはいるわけですか。
+Umiko: ……I see。\n They've already arrived.
 
 青葉: （うみこさん、怒ってるよー！\n　もう、遅刻したらダメって言ったのに）
-青葉: （うみこさん、怒ってるよー！\n　もう、遅刻したらダメって言ったのに）
+Aoba: （Umiko-san's getting mad! \n　Jeez, I told you to not be late!）
 
 うみこ: どこにいるんですか？
-うみこ: どこにいるんですか？
+Umiko: And where are they now?
 
 ひふみ: あっち……です。
-ひふみ: あっち……です。
+Hifumi: T……that way.
 
 青葉: わ、私も行きます！
-青葉: わ、私も行きます！
+Aoba: I'll also go！
 
 ねね: うおお、もふもふ！　もふもふだ！\n凄いワガママボディですね、もずく！
-ねね: うおお、もふもふ！　もふもふだ！\n凄いワガママボディですね、もずく！
+Nene: Uooooh, fluffy！　It's fluffy！\nYou've got a really greedy body, you know that Mozuku?
 
 しずく: だが、そこがいいだろう？
-しずく: だが、そこがいいだろう？
+Shizuku: But that's fine isn't it?
 
 ねね: はいっ！\nこの感触、一家に一匹いて欲しいです！
-ねね: はいっ！\nこの感触、一家に一匹いて欲しいです！
+Nene: Yep！\nI want a pet this fluffy at home!
 
 もずく: にゃー。
-もずく: にゃー。
+Mozuku: Meooーw。
 
 ねね: ここがいいのかにゃ～？\nうりうり、可愛いやつめ！
-ねね: ここがいいのかにゃ～？\nうりうり、可愛いやつめ！
+Nene: Is here good, nya～？\nRub-rub, you're cute!
+// Not sure about this
 
 しずく: ふふふ、君も可愛いなぁ。
-しずく: ふふふ、君も可愛いなぁ。
+Shizuku: Hahaha、 you're cute too, Mozuku。
 
 うみこ: …………。
-うみこ: …………。
+Umiko: …………。
 
 青葉: （ああ、うみこさんがますますっ！）
-青葉: （ああ、うみこさんがますますっ！）
+Aoba: （Uh oh, Umiko-san's getting angrier！）
+// loose
 
 うみこ: おはようございます。
-うみこ: おはようございます。
+Umiko: Good morning。
 
 ねね: わっ！？
-ねね: わっ！？
+Nene: Wah！？
 
 しずく: お、おはよう、うみこくん。\nどうしたのかな？
-しずく: お、おはよう、うみこくん。\nどうしたのかな？
+Shizuku: G-good morning, Umiko-san。\nWhat's up？
 
 うみこ: わかりませんか？\nでは、時計を見てください。
-うみこ: わかりませんか？\nでは、時計を見てください。
+Umiko: Did you forget？\nIn that case, please look at the clock.
 
 しずく: あ、ああ！　もうこんな時間なのか！\nいけないいけない、\nつい桜くんに見とれてしまったよ、ははは。
-しずく: あ、ああ！　もうこんな時間なのか！\nいけないいけない、\nつい桜くんに見とれてしまったよ、ははは。
+Shizuku: Aaaaaa！　It's already that time！\nNot good, not good. I was just watching Sakura-kun, hahaha。
 
 うみこ: 桜さん。
-うみこ: 桜さん。
+Umiko: Sakura-san。
 
 ねね: は、はいっ！
-ねね: は、はいっ！
+Nene: Y-yes！
 
 うみこ: 出社時間については\nアルバイトとして来ている貴方も\n社員と同じです。
-うみこ: 出社時間については\nアルバイトとして来ている貴方も\n社員と同じです。
+Umiko: As a part-timer, you have the same hours as a normal employee.
 
 うみこ: デバッガーの場合、この時刻には\nモニターの前に座りコントローラーを\n持っている状態が望ましいのですが？
-うみこ: デバッガーの場合、この時刻には\nモニターの前に座りコントローラーを\n持っている状態が望ましいのですが？
+Umiko: In a debugger's case、 wouldn't it be desirable to already be at a monitor with a controller？
 
 ねね: す、す、すみませんっ！
-ねね: す、す、すみませんっ！
+Nene: S-s-sorry！
 
 うみこ: では、行きますよ。
-うみこ: では、行きますよ。
+Umiko: So get to work then.
 
 ねね: はいっ！
-ねね: はいっ！
+Nene: Yes！
 
 ねね: じゃあね、あおっち。\nまたお昼休みに。
-ねね: じゃあね、あおっち。\nまたお昼休みに。
+Nene: Later, Aocchi。\nSee you at lunch。
 
 青葉: うん、がんばってね、ねねっち。
-青葉: うん、がんばってね、ねねっち。
+Aoba: Yeah、 see you then. Good luck, Nenecchi。
 
 しずく: やれやれ、桜くんに悪いことをしてしまったな。\nもずくが先にじゃれついて、\n相手をしてくれたんだが。
-しずく: やれやれ、桜くんに悪いことをしてしまったな。\nもずくが先にじゃれついて、\n相手をしてくれたんだが。
+Shizuku: Ah, I got Sakura-kun into trouble。\nMozuku was being playful、\nso she needed someone to play with.
+// double check, she might be talking to her cat
 
 しずく: 近々、お詫びに食事にでも招待しようかな？\nうん、我ながら良いアイディアだ。\nふふふ。
-しずく: 近々、お詫びに食事にでも招待しようかな？\nうん、我ながら良いアイディアだ。\nふふふ。
+Shizuku: Should I invite her to dinner to apologise? \nYes, good idea if I do say so myself.\n Fufufu。
 
 青葉: （この人は、私たちのチームの\n　ディレクター、葉月　しずくさん）
-青葉: （この人は、私たちのチームの\n　ディレクター、葉月　しずくさん）
+Aoba: （This woman is the director of our team, Hazuki Shizuku.）
 
 青葉: （可愛いってよく言ってる、\n　ちょっと変わった人です……）
-青葉: （可愛いってよく言ってる、\n　ちょっと変わった人です……）
+Aoba: （She often says cutsie things, plus she's a bit of a strange woman……）
+// "She often says cute" ? Check this one
 
 青葉: （ネコのもずくは、葉月さんの家の子です。\n　いつも留守番させておくとイタズラしちゃうので、\n　時々、会社に連れてきてるんだそうです）
-青葉: （ネコのもずくは、葉月さんの家の子です。\n　いつも留守番させておくとイタズラしちゃうので、\n　時々、会社に連れてきてるんだそうです）
+Aoba: （The cat's name is Mozuku, and is Hazuki-san's pet.\n　Always causing trouble for the caretaker、 it seems Hazuki-san brings her to the office from time to time.）
 
 もずく: にゃー。
-もずく: にゃー。
+Mozuku: Meooーw。
 
 しずく: こらこら、もずく。\n涼風くんもこれから仕事なんだよ、\n邪魔しちゃダメだ。
-しずく: こらこら、もずく。\n涼風くんもこれから仕事なんだよ、\n邪魔しちゃダメだ。
+Shizuku: Settle down, Mozuku. Suzukaze-kun has to get back to work now, so don't disturb her.
 
 しずく: さて、それじゃ、涼風くん。\n今日も１日、お仕事がんばってね。
-しずく: さて、それじゃ、涼風くん。\n今日も１日、お仕事がんばってね。
+Shizuku: With that, I shall see you later, Suzukaze-kun。\n Today's another day, so work your hardest。
 
 青葉: はいっ！
-青葉: はいっ！
+Aoba: Right！
 
