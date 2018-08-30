@@ -1,324 +1,347 @@
+// When I mark a line as "loose" or similar, it's just a note for me to double check these ones specifically.
 青葉: 八神さん！\n村人の修正、終わりました！
-青葉: 八神さん！\n村人の修正、終わりました！
+Aoba: Yagami-san！\nThe villager corrections are finished!
 
 コウ: おー、お疲れ。\nそれじゃ、次はこっちのリストにある分の修正ね。
-コウ: おー、お疲れ。\nそれじゃ、次はこっちのリストにある分の修正ね。
+Kou: Oooー, good job.\nNow that that's done, there's the items on this list.
 
 青葉: えっ？\nまだ修正があるんですか？
-青葉: えっ？\nまだ修正があるんですか？
+Aoba: Eh？\nThere's more corrections?
 
 コウ: 困ったことに、じゃんじゃん来てるよ。\nまだまだかかりそう。
-コウ: 困ったことに、じゃんじゃん来てるよ。\nまだまだかかりそう。
+Kou: The fast progress brought issues。\n And it looks like there'll be more
+// COULD NOT TRANSLATE
 
 青葉: （うう……。\n　さすがラストスパートの時期、\n　やってもやっても仕事が終わらないよ）
-青葉: （うう……。\n　さすがラストスパートの時期、\n　やってもやっても仕事が終わらないよ）
+Aoba: （Uuuuu……。\n　That's the last spurt time、 for you.\n　The work just doesn't end!）
 
 コウ: ソフィアにもちょっとしたエラーが\n出てるみたいだから、ちゃんと直してあげて。
-コウ: ソフィアにもちょっとしたエラーが\n出てるみたいだから、ちゃんと直してあげて。
+Kou: Sofia seems to be having errors too、 so please fix those。
 
 青葉: あ、はい！
-青葉: あ、はい！
+Aoba: Ah, right！
 
 青葉: （ソフィアちゃんは、\n　私がデザインしたサブキャラ――）
-青葉: （ソフィアちゃんは、\n　私がデザインしたサブキャラ――）
+Aoba: （Sofia-chan is my own sub-character I designed.）
 
 青葉: （初めてキャラデザした子なんだから、\n　気合入れて直してあげなくちゃ！）
-青葉: （初めてキャラデザした子なんだから、\n　気合入れて直してあげなくちゃ！）
+Aoba: （Because she's my first character、 I have to suck it up and make those corrections！）
 
 コウ: にしても、今回はいつもより\nアハゴンのチェックが厳しいなぁ。
-コウ: にしても、今回はいつもより\nアハゴンのチェックが厳しいなぁ。
+Kou: And plus, Ahagon's checks have been more severe than usual。
 
 うみこ: 私のチェックが厳しいわけではありません。\nデバッガーから的確な指摘が\n上がってきているんです。
-うみこ: 私のチェックが厳しいわけではありません。\nデバッガーから的確な指摘が\n上がってきているんです。
+Umiko: My checks are not severe。\nThe debugger just accurately detects your mistakes.
 
 うみこ: それと、苗字で呼ぶなといつも言ってますよね？
-うみこ: それと、苗字で呼ぶなといつも言ってますよね？
+Umiko: Also, don't I keep telling you to stop calling me that name?
 
 コウ: あ、あはは、ごめん。\nそんな怖い顔しないでって。
-コウ: あ、あはは、ごめん。\nそんな怖い顔しないでって。
+Kou: Ah, haha, sorry!\nPlease stop making that scary face.
 
 コウ: で、どうしたの？\n私か青葉に用？
-コウ: で、どうしたの？\n私か青葉に用？
+Kou: Well, what's up?\nNeed something from me or Aoba？
 
 うみこ: いえ、通りかかった所に\n誤解を含んだ台詞が聞こえてきたので、\n訂正しておこうかと。
-うみこ: いえ、通りかかった所に\n誤解を含んだ台詞が聞こえてきたので、\n訂正しておこうかと。
+Umiko: No, I happened upon a place in the game where I heard a misunderstanding, so I was hoping you could correct it.
+// Check this
 
 青葉: デバッグチームの人たち、優秀なんですね。
-青葉: デバッグチームの人たち、優秀なんですね。
+Aoba: The debug team is excellent, aren't they。
 
 うみこ: ええ、特に桜さんは\n細かな報告を多く入れてくれています。
-うみこ: ええ、特に桜さんは\n細かな報告を多く入れてくれています。
+Umiko: Yes, especially Sakura-san. She provides us very detailed reports.
 
 青葉: へえ……。\nねねっち、がんばってるんですね。
-青葉: へえ……。\nねねっち、がんばってるんですね。
+Aoba: Wow……。\nSounds like Nenecchi works hard.
 
 うみこ: 企画側からの評価も高いですよ。\n旧作を熟知していないとわからない指摘も多く\n助かっていると。
-うみこ: 企画側からの評価も高いですよ。\n旧作を熟知していないとわからない指摘も多く\n助かっていると。
+Umiko: The feedback from design are praised as well。\nThere are many things you don't notice if you haven't played the old games, so she's a very helpful.
+// Could not translate
 
 青葉: （そっか、ねねっちも私と同じで\n　フェアリーズストーリー、大好きだもんね）
-青葉: （そっか、ねねっちも私と同じで\n　フェアリーズストーリー、大好きだもんね）
+Aoba: （That's right, me and Nenecchi are the same. We both really love Fairy's Story.）
 
 うみこ: ただ、桜さんの場合、\nそれらを帳消しにしかねない\n素行の問題がありますが。
-うみこ: ただ、桜さんの場合、\nそれらを帳消しにしかねない\n素行の問題がありますが。
+Umiko: However, while I can't deny that, in Sakura-san's case, there's a problem with her behaviour。
 
 青葉: あ、あはは……。
-青葉: あ、あはは……。
+Aoba: Ah、 ahaha……。
 
 コウ: だから、ねねちゃんはデバッグブースじゃなくて\nうみこの隣にいるんだっけ？
-コウ: だから、ねねちゃんはデバッグブースじゃなくて\nうみこの隣にいるんだっけ？
+Kou: Is that why you have Nene-chan next to you instead of in the debug booth?
 
 うみこ: ええ。\n見張っていないと何をするかわかりません。
-うみこ: ええ。\n見張っていないと何をするかわかりません。
+Umiko: Indeed。\nIf I'm not watching her, I don't know what she'll do.
 
 コウ: 扱いが幼稚園児並だね～。\n一応、大学生なのに。
-コウ: 扱いが幼稚園児並だね～。\n一応、大学生なのに。
+Kou: Treating her like a kindergartener, huh? Maybe eventually treat her like a university student?
+// COULD NOT TRANSLATE second part
 
 青葉: （それ、ねねっちが聞いたら怒りますよ……）
-青葉: （それ、ねねっちが聞いたら怒りますよ……）
+Aoba: （If Nenecchi heard that, she'd be maaad……）
 
 コウ: ああ、そうそう、報告にあった村人のエラー、\n青葉が直してくれたから。\n確認よろしくー。
-コウ: ああ、そうそう、報告にあった村人のエラー、\n青葉が直してくれたから。\n確認よろしくー。
+Kou: Ah、 right、 Aoba fixed those errors with the villagers. I'll let you confirm that.
 
 うみこ: 言われずともやりますよ。
-うみこ: 言われずともやりますよ。
+Umiko: I'd do it without being told.
 
 しずく: おや、うみこくん。\nこんな所で会うなんて、嬉しい限りだよ。
-しずく: おや、うみこくん。\nこんな所で会うなんて、嬉しい限りだよ。
+Shizuku: Ah、 Umiko-kun。\nWhat a pleasant coincidence meeting you here.  
+// Not sure
 
 うみこ: ……朝も会ったのですが、もうお忘れですか？
-うみこ: ……朝も会ったのですが、もうお忘れですか？
+Umiko: ……you already met me this morning, or have you already forgotten?
 
 しずく: ２回目の出会いもまた嬉しいものさ。
-しずく: ２回目の出会いもまた嬉しいものさ。
+Shizuku: The second meeting is also pleasant. 
 
 うみこ: 無駄話をしている暇はないので、\nこれで失礼します。
-うみこ: 無駄話をしている暇はないので、\nこれで失礼します。
+Umiko: I don't have time for this. Please excuse me.
 
 しずく: 待った待った。\nこれからミーティングをするから、\n一緒に会議室まで来ておくれよ。
-しずく: 待った待った。\nこれからミーティングをするから、\n一緒に会議室まで来ておくれよ。
+Shizuku: Hold it, hold it。 We've got a meeting now, so please come with me to the conference room.
 
 うみこ: ミーティングですか？\nわかりました、すぐに向かいます。
-うみこ: ミーティングですか？\nわかりました、すぐに向かいます。
+Umiko: A meeting？\nUnderstood, I'll head there immediately.
 
 しずく: なんだ、一緒に行こうって言ったのに。\nつれないね。
-しずく: なんだ、一緒に行こうって言ったのに。\nつれないね。
+Shizuku: Hey, I said to come with me! \nSo cruel.
 
 コウ: もしかして、例の件でミーティング？\nってことは私と青葉も？
-コウ: もしかして、例の件でミーティング？\nってことは私と青葉も？
+Kou: Ooohh, is it a meeting about that thing you mentioned？\nWith me and Aoba？
 
 りん: ええ、よろしくね。
-りん: ええ、よろしくね。
+Rin: Yep. Good luck.
+// not sure how to word this
 
 コウ: オッケー。\nじゃあ青葉、会議室に行くよ。
-コウ: オッケー。\nじゃあ青葉、会議室に行くよ。
+Kou: Okay～。\nRight, Aoba, let's go to the conference room。
 
 青葉: 会議室……ですか？
-青葉: 会議室……ですか？
+Aoba: Conference…… room？
 
 青葉: （葉月さんやうみこさんも参加するってことは\n　キャラ班のミーティングじゃないよね？）
-青葉: （葉月さんやうみこさんも参加するってことは\n　キャラ班のミーティングじゃないよね？）
+Aoba: （Hazuki-san and Umiko-san are participating, so it can't be a character design meeting.）
 
 青葉: （な、なんだろう？\n　もしかして私、なにかやっちゃった！？）
-青葉: （な、なんだろう？\n　もしかして私、なにかやっちゃった！？）
+Aoba: （Th-then what is it? Is it maybe... I did something wrong?!）
+// Not literal but meh
 
 青葉: 失礼しまーす……。
-青葉: 失礼しまーす……。
+Aoba: Excuse me……?
 
 ねね: あおっち～！　助けてー！！
-ねね: あおっち～！　助けてー！！
+Nene: Aocchi～！　Help meeeee！！
 
 青葉: ええっ！？　ねねっち！？
-青葉: ええっ！？　ねねっち！？
+Aoba: Eeehh！？　Nenecchi！？
 
 ねね: 急に呼び出されたー！\n私、クビになっちゃうよー！！
-ねね: 急に呼び出されたー！\n私、クビになっちゃうよー！！
+Nene: I suddenly got told to come here！\nThey're gonna fire me！！
 
 うみこ: 身に覚えはあるでしょう。\n大人しく現実を受け入れたらどうですか？
-うみこ: 身に覚えはあるでしょう。\n大人しく現実を受け入れたらどうですか？
+Umiko: Remember where you are。\nWhy not accept the reality of being an adult?
 
 ねね: そんなぁー！
-ねね: そんなぁー！
+Nene: Butー！
+// Not sure
 
 しずく: 大丈夫だよ、桜くん。\n君のような優秀なデバッガーを\nクビにするなんてないさ。
-しずく: 大丈夫だよ、桜くん。\n君のような優秀なデバッガーを\nクビにするなんてないさ。
+Shizuku: It's alright, Sakura-kun.\nI will not let an excellent debugger like you be fired.
 
 ねね: ゆ、優秀？　私、優秀！？
-ねね: ゆ、優秀？　私、優秀！？
+Nene: E...excellent？　I'm excellent！？
 
 うみこ: 変に持ち上げないでください。\n後始末はこっちに回ってくるんですよ？
-うみこ: 変に持ち上げないでください。\n後始末はこっちに回ってくるんですよ？
+Umiko: Please don't flatter her。\nWhat if there are cutbacks to be made?
+// "please don't make weird flatterings" would be more literal but this makes more sense
+// Also cutbacks is a guess on context that she's saying
 
 うみこ: それに、クビの勧告でないのなら\nどうして桜さんがここに？
-うみこ: それに、クビの勧告でないのなら\nどうして桜さんがここに？
+Umiko: Also, if you're not firing Sakura-san, why is she here?
+// This sounds really mean even for Umiko, i'm probably wrong here
 
 しずく: ヘビーユーザーの貴重な意見を\n参考にしたくて来てもらったんだ。
-しずく: ヘビーユーザーの貴重な意見を\n参考にしたくて来てもらったんだ。
+Shizuku: I asked her to come, so we can refer to her opinion as a heavy user.
 
 ねね: ふぇ？　意見？　参考？
-ねね: ふぇ？　意見？　参考？
+Nene: Eh？　Opinion? Refer?
 
 しずく: さて、それじゃみんな、適当に席について。\n落ち着いたら話を始めるよ。
-しずく: さて、それじゃみんな、適当に席について。\n落ち着いたら話を始めるよ。
+Shizuku: Right, everyone please take a seat。 Let's start the serious talk.
 
 コウ: へーい。
-コウ: へーい。
+Kou: Fiine。
 
 ねね: ねえねえ、あおっち。\nこれってなんの会議なの？
-ねね: ねえねえ、あおっち。\nこれってなんの会議なの？
+Nene: Hey, Aocchi。 What's this meeting about?
 
 青葉: （うーん、ねねっちまで呼ばれるなんて、\n　これって……）
-青葉: （うーん、ねねっちまで呼ばれるなんて、\n　これって……）
+Aoba: （Hmmm, Nenecchi was also invited, so this is…）
 
 青葉: 大きなバグが出たのかな？
-青葉: 大きなバグが出たのかな？
+Aoba: They found a huge bug?
 
 ねね: 優秀なデバッガーの私が\n重大なバグを見つけちゃったのだよ！
-ねね: 優秀なデバッガーの私が\n重大なバグを見つけちゃったのだよ！
+Nene: Maybe the excellent debugger Nene found a game-breaking bug.
 
 青葉: ええ！？　ホントに！？
-青葉: ええ！？　ホントに！？
+Aoba: Eeehh！？　Really！？
 
 ねね: えへへ、なんちゃって。
-ねね: えへへ、なんちゃって。
+Nene: Hehehe、 just kidding。
 
 青葉: え？　見つけたんじゃないの？
-青葉: え？　見つけたんじゃないの？
+Aoba: Eh？　You didn't find a bug then？
 
 青葉: まさか、徹夜の命令？
-青葉: まさか、徹夜の命令？
+Aoba: They're not going to make us work the overnight, are they？
+// Loose, I know
 
 ねね: 徹夜？　会社でお泊まり会？\nそれって楽しそう！　やるやる～！
-ねね: 徹夜？　会社でお泊まり会？\nそれって楽しそう！　やるやる～！
+Nene: Overnight？　Like a sleepover at work？ That sounds fun! Let's do it!
 
 青葉: お泊まり会じゃないよ。\n仕事のために泊まるんだからね？
-青葉: お泊まり会じゃないよ。\n仕事のために泊まるんだからね？
+Aoba: It's not a sleepover, you know。\nBecause you're there to do work.
 
 ねね: えー、でもみんなでお泊まりって\n絶対に盛り上がるよー！　やりたーい！
-ねね: えー、でもみんなでお泊まりって\n絶対に盛り上がるよー！　やりたーい！
+Nene: Ehh、 but it'd be exciting if everyone was sleeping here too. I want to do it！
 
 青葉: 女子会かな？
-青葉: 女子会かな？
+Aoba: A girl's party, maybe?
 
 ねね: 女子会なら、こんな会議室じゃなくて\n可愛いお店でランチしながらがいいよー
-ねね: 女子会なら、こんな会議室じゃなくて\n可愛いお店でランチしながらがいいよー
+Nene: If it was a girl's party, we wouldn't be here. We'd be having lunch at a cute restaurant or something.
+// Not sure
 
 ねね: 前にゆんさんが教えてくれた\nパスタのお店、もう一回行きたいなぁ。
-ねね: 前にゆんさんが教えてくれた\nパスタのお店、もう一回行きたいなぁ。
+Nene: There was this pasta restaurant Yun-san told me about. I want to go there again...
 
 青葉: あ！　あのお店、美味しくてお手頃だしいいよね。\n私もお気に入りなんだ。
-青葉: あ！　あのお店、美味しくてお手頃だしいいよね。\n私もお気に入りなんだ。
+Aoba: Ah！　That restaurant had delicious food, and was affordable. That's my favourite too。
 
 りん: ふたりとも、私語はそれくらいにね。
-りん: ふたりとも、私語はそれくらいにね。
+Rin: You two, please stop talking.
+// Loose
 
 青葉: はっ！\nす、すみません！
-青葉: はっ！\nす、すみません！
+Aoba: Ah！S-sorry!
 
 しずく: では、会議を始めさせてもらうよ。
-しずく: では、会議を始めさせてもらうよ。
+Shizuku: Then let's get this meeting started.
 
 しずく: まず、フェアリーズストーリー３の開発、\nみんなお疲れ様。
-しずく: まず、フェアリーズストーリー３の開発、\nみんなお疲れ様。
+Shizuku: First of all, I'd like to thank you all for your work on the development of Fairy's Story 3 so far.
 
 しずく: それぞれが力を尽くしてくれているお陰で、\n今のところは大きな遅れもなく、\n無事にマスターアップを迎えられそうだ。
-しずく: それぞれが力を尽くしてくれているお陰で、\n今のところは大きな遅れもなく、\n無事にマスターアップを迎えられそうだ。
+Shizuku: Because of you all dedicating all your energy、 for now there doesn't seem to be any major delays to delivering the master.
+// Master App? Must be what the japanese game devs call the master (or when a game goes gold)
 
 しずく: ――と、言いたかったんだがねぇ。
-しずく: ――と、言いたかったんだがねぇ。
+Shizuku: ... Is what I'd like to say。
 
 うみこ: なにか問題が起きたんですか？
-うみこ: なにか問題が起きたんですか？
+Umiko: Did a problem arise?
 
 しずく: いいや、むしろ順調だ。\nメディアへの公開直後から大きな話題に\nなっているし、評価も高い。
-しずく: いいや、むしろ順調だ。\nメディアへの公開直後から大きな話題に\nなっているし、評価も高い。
+Shizuku: No, rather the opposite. Just after releasing information to the media, the game has become quite a topic for discussion, but also expectations are high.
+// ???
 
 しずく: 予約の段階で、すでに\n前作を超える勢いが感じられるくらいだよ。
-しずく: 予約の段階で、すでに\n前作を超える勢いが感じられるくらいだよ。
+Shizuku: At this stage of development、 we can already see that the momentum has exceeded that of our previous games。
 
 ねね: 当然ですね！\nプレイしてても前作越えは確実って感じますよ！
-ねね: 当然ですね！\nプレイしてても前作越えは確実って感じますよ！
+Nene: Of course！ When you play it you can tell it's better than the previous games!
 
 青葉: ね、ねねっち！　今は会議中だよ！
-青葉: ね、ねねっち！　今は会議中だよ！
+Aoba: Ne-Nenecchi！　We're in a meeting！
 
 ねね: あ……！\nえ、えっと、すみません。
-ねね: あ……！\nえ、えっと、すみません。
+Nene: Ah……！\nUhhh、 sorry。
 
 しずく: いやいや、謝る事はないよ。\n心強い評価だ。
-しずく: いやいや、謝る事はないよ。\n心強い評価だ。
+Shizuku: You don't have to apologize. That is a reassuring evaluation.
 
 しずく: と、まあ、そんなわけでね。\n今の勢いと状況に合わせて――
-しずく: と、まあ、そんなわけでね。\n今の勢いと状況に合わせて――
+Shizuku: Well, that's about it regarding our current situation.
 
 しずく: クライアントから、追加ストーリーを\n配信したいとの申し出があったんだ。
-しずく: クライアントから、追加ストーリーを\n配信したいとの申し出があったんだ。
+Shizuku: From our client、 there was a request for additional stories.
 
 ねね: ええっ！？\n今回って、追加ＤＬＣ対応だったんですか！
-ねね: ええっ！？\n今回って、追加ＤＬＣ対応だったんですか！
+Nene: Eeehhh！？ Does the game support ＤＬＣ this time?
 
 うみこ: ……桜さん。
-うみこ: ……桜さん。
+Umiko: ……Sakura-san。
 
 ねね: あうっ！\nあ、あの、また、すみませんっ！
-ねね: あうっ！\nあ、あの、また、すみませんっ！
+Nene: Ow！ Again, sorry！
+// Not sure if she says ow or if she's making a scared noise, need to correct after playing the game
 
 しずく: いいんだよ。\n君のようなユーザーの、\nそういう反応を見たかったんだからね。
-しずく: いいんだよ。\n君のようなユーザーの、\nそういう反応を見たかったんだからね。
+Shizuku: It's fine. I wanted to see the reaction from a user like you。
 
 しずく: それで、今回の追加ストーリーは\n予約好評に応じる形で、\nサービスとして配信するそうだ。
-しずく: それで、今回の追加ストーリーは\n予約好評に応じる形で、\nサービスとして配信するそうだ。
+Shizuku: The first additional story will be free, in response to the popularity.
+// Very loose but correct?
 
 しずく: これをテストパターンとし、反応が良ければ\n連続で作っていきたい。
-しずく: これをテストパターンとし、反応が良ければ\n連続で作っていきたい。
+Shizuku: They want us to make it as a test, and if the reaction is good, they want us to make more.
 
 しずく: 以上がクライアントからの要求で、\nこちらがどう対応するかが\nこの会議の議題というわけだ。
-しずく: 以上がクライアントからの要求で、\nこちらがどう対応するかが\nこの会議の議題というわけだ。
+Shizuku: That is the client's request、 so this meeting is about how we will go about this。
 
 うみこ: 待ってください。\n好調なのは喜ばしいことですが――
-うみこ: 待ってください。\n好調なのは喜ばしいことですが――
+Umiko: Hold on a second. It's good that the game is being seen favourably.
 
 うみこ: どう対応もなにも、\nＤＬＣの話は一度も聞いていません。
-うみこ: どう対応もなにも、\nＤＬＣの話は一度も聞いていません。
+Umiko: But how does the game support this, since this is the first I've heard about any ＤＬＣ.
+// Loose
 
 しずく: ああ、初めて話しているからね。\n本当に突然、話が来たんだ。
-しずく: ああ、初めて話しているからね。\n本当に突然、話が来たんだ。
+Shizuku: Aahh, so you haven't heard about it before now。 The truth is, it just came up out of nowhere.
+// Loose
 
 うみこ: 突然では困るんですが？\n今から準備しろと？
-うみこ: 突然では困るんですが？\n今から準備しろと？
+Umiko: Do you have an issue with abruptness？ Perhaps you should be more prepared in future？
+// Loose
 
 青葉: ……すみません。\nとっても初歩的な確認なんですが、\nいいでしょうか？
-青葉: ……すみません。\nとっても初歩的な確認なんですが、\nいいでしょうか？
+Aoba: ……Sorry, it sounds like a basic confirmation. Is that good?
 
 りん: いいのよ、青葉ちゃん。\nわからないことがあったら、なんでも聞いて。
-りん: いいのよ、青葉ちゃん。\nわからないことがあったら、なんでも聞いて。
+Rin: It is, Aoba-chan。 If there's anything you don't understand, just ask me.
 
 青葉: ＤＬＣを配信するのって、難しいことなんですか？
-青葉: ＤＬＣを配信するのって、難しいことなんですか？
+Aoba: Will it be difficult to deliver the ＤＬＣ?
 
 うみこ: ＤＬＣを組み込むためには、\nメインプログラムの対応が必要なんです。
-うみこ: ＤＬＣを組み込むためには、\nメインプログラムの対応が必要なんです。
+Umiko: In order to accomodate to the DLC, it will be necessary to add support to the main program.
 
 うみこ: 元々、ＤＬＣを追加できるように\n組んであれば問題ありません。\nしかし、現状、していませんから。
-うみこ: 元々、ＤＬＣを追加できるように\n組んであれば問題ありません。\nしかし、現状、していませんから。
+Umiko: This wouldn't be a problem if we had done this from the start。 However, at present, we are not working on it.
 
 しずく: ああ、それはもちろん知っている。\nだけど私は、プログラム調整の余地はあると\n判断した。
-しずく: ああ、それはもちろん知っている。\nだけど私は、プログラム調整の余地はあると\n判断した。
+Shizuku: Aahh、 of course I know that. That's why I made the judgement that there was enough time to adjust the program.
 
 しずく: うみこくん。\n君の意見はどうかな？\n私は無茶を言っているかい？
-しずく: うみこくん。\n君の意見はどうかな？\n私は無茶を言っているかい？
+Shizuku: Umiko-kun, what are your thoughts? Am I being unreasonable?
 
 うみこ: …………。
-うみこ: …………。
+Umiko: …………。
 
 うみこ: 無茶ではありませんね。\n可能だと、私も判断できます。
-うみこ: 無茶ではありませんね。\n可能だと、私も判断できます。
+Umiko: No, you're not being unreasonable。 I think it should be feasible to complete.
 
 しずく: うん、そうか。\n正直な意見をありがとう。
-しずく: うん、そうか。\n正直な意見をありがとう。
+Shizuku: Great。 Thank you for your honest opinion.
 
 しずく: それと、桜くんの反応を見るに、\n追加ストーリーは\nユーザーにも受け入れられると思う。
-しずく: それと、桜くんの反応を見るに、\n追加ストーリーは\nユーザーにも受け入れられると思う。
+Shizuku: Also, after seeing Sakura-kun's reaction, I think the users will accept it.
+// Check
 
 ねね: はいっ！　大賛成です！
-ねね: はいっ！　大賛成です！
+Nene: Yep! I totally agree!
 
