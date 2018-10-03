@@ -1,261 +1,281 @@
 うみこ: しかし、追加ストーリーの内容、\nそれに追加データはどう対応するのですか？
-うみこ: しかし、追加ストーリーの内容、\nそれに追加データはどう対応するのですか？
+Umiko: However、 with regard to the additional stories、 will it make sense with the current story？
+// CHECK
 
 しずく: もちろん、そこも考えているよ。
-しずく: もちろん、そこも考えているよ。
+Shizuku: Of course, I've been considering that.
 
 青葉: （……あれ？\n　葉月さん、こっちを見た？）
-青葉: （……あれ？\n　葉月さん、こっちを見た？）
+Aoba: （……Huh？　Hatsuki-san was thinking of that？）
 
 しずく: 今回の追加ストーリー、\nソフィアの外伝を作ろうと考えてる。
-しずく: 今回の追加ストーリー、\nソフィアの外伝を作ろうと考えてる。
+Shizuku: I was thinking that the additional stories could be about Sofia.
 
 青葉: え？　ええええええー！？\nソフィアちゃんの外伝ですか！？
-青葉: え？　ええええええー！？\nソフィアちゃんの外伝ですか！？
+Aoba: Eh？　Ehhhhhh！？ A story about Sofia-chan！？
 
 しずく: うん。\n雑誌やネットでも、ソフィアは評判がいいんだ。
-しずく: うん。\n雑誌やネットでも、ソフィアは評判がいいんだ。
+Shizuku: Indeed. Sofia has quite the reputation in magazines and online.
 
 青葉: そ、そうなんですか！？
-青葉: そ、そうなんですか！？
+Aoba: Really！？
 
 しずく: ソフィアは儚くも死んでしまうからね。\nそういう展開も含めて、\nきっと人気が出ると思うんだ。
-しずく: ソフィアは儚くも死んでしまうからね。\nそういう展開も含めて、\nきっと人気が出ると思うんだ。
+Shizuku: After all, the player only meets her fleetingly before she dies. An expansion on her story would surely be popular.
 
 しずく: それから、八神たちメインメンバーの負担も考えて、\n追加データをなるべく作らない形でまとめたい。
-しずく: それから、八神たちメインメンバーの負担も考えて、\n追加データをなるべく作らない形でまとめたい。
+Shizuku: Because of that, I think Yagami's team will bear the burden most, so I want to keep the additional work as minimal as possible.
+// CHECK
 
 しずく: となると、ソフィアに主役となってもらうのが\nうってつけというわけさ。
-しずく: となると、ソフィアに主役となってもらうのが\nうってつけというわけさ。
+Shizuku: To that end, Sofia would be the perfect lead character.
 
 しずく: さらに、涼風くんにも\n大いに活躍してもらうつもりだよ。
-しずく: さらに、涼風くんにも\n大いに活躍してもらうつもりだよ。
+Shizuku: And I plan to have a lot of activity from Suzukaze-san.
+// Loose
 
 青葉: へっ！？\nわ、私も活躍って、それはどういうことですか？
-青葉: へっ！？\nわ、私も活躍って、それはどういうことですか？
+Aoba: Eh！？ What do you mean by a lot of activity?
 
 しずく: さっきも言ったけど、追加ストーリーは\n八神たちメインメンバーの\n負担にならないようにまとめたい。
-しずく: さっきも言ったけど、追加ストーリーは\n八神たちメインメンバーの\n負担にならないようにまとめたい。
+Shizuku: Like I said, I want to keep the workload for Yagami's team from being too much.
 
 しずく: そこで、ソフィアをわかっているであろう\n涼風くんに、ＣＧを取りまとめて欲しいんだ。
-しずく: そこで、ソフィアをわかっているであろう\n涼風くんに、ＣＧを取りまとめて欲しいんだ。
+Shizuku: You know Sofia, Suzukaze-kun, so I want you to assemble the CGs.
 
 青葉: ええと、ＣＧを取りまとめるって……\nつまり……。
-青葉: ええと、ＣＧを取りまとめるって……\nつまり……。
+Aoba: Uhhh、 assembling the CGs... that means...
 
 りん: 私がやっているような\nアートディレクターの仕事をお願いしたいのよ。
-りん: 私がやっているような\nアートディレクターの仕事をお願いしたいのよ。
+Rin: It means you'll be doing my job of art director.
 
 青葉: わわわ、私が！？\nアートディレクター、ですか！？\nな、な、なんで……。
-青葉: わわわ、私が！？\nアートディレクター、ですか！？\nな、な、なんで……。
+Aoba: M-m-m-me!? Art director?! 
 
 りん: ソフィアちゃんのストーリーにするんだから、\nソフィアちゃんがわかっていると、\nＣＧのデザイン統一ができるわ。
-りん: ソフィアちゃんのストーリーにするんだから、\nソフィアちゃんがわかっていると、\nＣＧのデザイン統一ができるわ。
+Rin: It is Sofia-chan's story after all、 and since you know all about her, you can do the CG designs.
 
 コウ: 要は、上がってくるものが\nソフィアにふさわしいかどうかを\nチェックするんだよ。
-コウ: 要は、上がってくるものが\nソフィアにふさわしいかどうかを\nチェックするんだよ。
+Kou: Basically it means that anything made will be checked by you to make sure it fits.
 
 コウ: ソフィアの生みの親は青葉なんだし、\n面倒を見てあげたいよね？
-コウ: ソフィアの生みの親は青葉なんだし、\n面倒を見てあげたいよね？
+Kou: Sofia was your creation, Aoba, so you want to make sure that care is taken, right?
 
 青葉: そ、それは、もちろんですっ！
-青葉: そ、それは、もちろんですっ！
+Aoba: O-of course!
 
 青葉: （私のデザインしたソフィアちゃんが、\n　シナリオの主役になるんだ。\n　だったら、私がちゃんと見守りたい！）
-青葉: （私のデザインしたソフィアちゃんが、\n　シナリオの主役になるんだ。\n　だったら、私がちゃんと見守りたい！）
+Aoba: （My own design, Sofia, is going to be a protagonist! So of course I want to watch over her story development!）
 
 うみこ: 私は賛成できませんね。
-うみこ: 私は賛成できませんね。
+Umiko: I'm afraid I cannot agree.
 
 青葉: え……。
-青葉: え……。
+Aoba: Eh……?。
 
 ねね: うーみーこーさん！\nなんでそんな意地悪言うんですか！
-ねね: うーみーこーさん！\nなんでそんな意地悪言うんですか！
+Nene: Uーmiーkoーsan！ Why would you say such a mean thing!
 
 うみこ: 意地悪ではなく、正直に言っているだけですよ。\n涼風さんに任せるのは、まだ早すぎます。
-うみこ: 意地悪ではなく、正直に言っているだけですよ。\n涼風さんに任せるのは、まだ早すぎます。
+Umiko: It is not mean, only honest. It is still too soon to leave something like this to Suzukaze-san.
 
 うみこ: クライアントの要求とはいえ、\nそのような体制を組まざるを得ないのなら\n断ることも必要では？
-うみこ: クライアントの要求とはいえ、\nそのような体制を組まざるを得ないのなら\n断ることも必要では？
+Umiko: It may be the client's request, but is it not better to refuse than organize such a system?
+// loose
 
 青葉: …………。
-青葉: …………。
+Aoba: …………。
 
 青葉: （うみこさんの言うことももっともだ。\n　私はまだ入社したばかりなんだから）
-青葉: （うみこさんの言うことももっともだ。\n　私はまだ入社したばかりなんだから）
+Aoba: （Umiko-san isn't wrong. I only just joined the company and am still new.）
 
 青葉: （でも、やってみせる！）
-青葉: （でも、やってみせる！）
+Aoba: （But I will prove I can do it！）
 
 青葉: （葉月さんが私に任せてもいいって、\n　そう考えてくれたんだ。\n　期待に応えなくちゃ！）
-青葉: （葉月さんが私に任せてもいいって、\n　そう考えてくれたんだ。\n　期待に応えなくちゃ！）
+Aoba: （Hatsuki-san thought I could do it, that's what she said. I have to meet her expectations!）
 
 青葉: （それに、ソフィアちゃんを\n　もっともっと大きく羽ばたかせてあげたい！）
-青葉: （それに、ソフィアちゃんを\n　もっともっと大きく羽ばたかせてあげたい！）
+Aoba: （I want to make Sofia better and better than before!）
+// CHECK
 
 青葉: （自信ないよ。\n　ここで失敗しちゃったら、\n　葉月さんや八神さんを失望させちゃう）
-青葉: （自信ないよ。\n　ここで失敗しちゃったら、\n　葉月さんや八神さんを失望させちゃう）
+Aoba: （I need more self-confidence. If I make mistakes now, I'll disappoint Hatsuki-san and Yagami-san.）
+// Loose
 
 青葉: （八神さんたちの負担を少しでも減らしたいけど、\n　逆に迷惑かけちゃうかもしれないし）
-青葉: （八神さんたちの負担を少しでも減らしたいけど、\n　逆に迷惑かけちゃうかもしれないし）
+Aoba: （I want to lower my team's workload, but it might actually increase it...）
+// Loose
 
 青葉: （他の人が適任じゃないかな？\n　八神さんたちが忙しいなら、ゆんさんとか\n　ひふみ先輩とか）
-青葉: （他の人が適任じゃないかな？\n　八神さんたちが忙しいなら、ゆんさんとか\n　ひふみ先輩とか）
+Aoba: （The other members of the team are qualified, but they're busy too. Yun-san and Hifumi-senpai...）
+// CHECK
 
 青葉: （そのほうが、新人の私がやるより\n　周りも安心すると思うんだけどな）
-青葉: （そのほうが、新人の私がやるより\n　周りも安心すると思うんだけどな）
+Aoba: （I think they might be more comfortable if a newcomer like me wasn't in charge.）
 
 しずく: うみこくん。\n私も状況はわかっている。\nでもこれは、遠山くんや八神とも相談した結果だよ。
-しずく: うみこくん。\n私も状況はわかっている。\nでもこれは、遠山くんや八神とも相談した結果だよ。
+Shizuku: Umiko-kun. I understand the situation. But I consulted with Yagami and Toyama-san to reach this outcome.
 
 青葉: （！！　八神さんたちとも相談したんだ！\n　ということは、八神さんも私に任せるって\n　考えてくれた……のかな？）
-青葉: （！！　八神さんたちとも相談したんだ！\n　ということは、八神さんも私に任せるって\n　考えてくれた……のかな？）
+Aoba: （！！　She spoke with Yagami-san! That means Yagami-san also thought that I could handle it... right?）
 
 しずく: 今回、３作目ということもあって\n予約本数が飛躍的に伸びている。
-しずく: 今回、３作目ということもあって\n予約本数が飛躍的に伸びている。
+Shizuku: This game is the third installment, so we have a lot of preorders.
+// CHECK
 
 しずく: ここでより多くのユーザーを獲得し、\n次に繋げていきたい。\nこの機を逃したくないんだ。
-しずく: ここでより多くのユーザーを獲得し、\n次に繋げていきたい。\nこの機を逃したくないんだ。
+Shizuku: From this we will acquire a lot of new users, which I want to connect to the main game. This is a chance we can't miss.
+// ALSO CHECK
 
 うみこ: それは、わかりますが……。
-うみこ: それは、わかりますが……。
+Umiko: Fair enough, I understand……。
 
 しずく: 涼風くん。
-しずく: 涼風くん。
+Shizuku: Suzukaze-kun.
 
 青葉: は、はいっ！
-青葉: は、はいっ！
+Aoba: Y-yes!
 
 しずく: 君が不安に思う気持ちも察している。\n当然のことだからね。
-しずく: 君が不安に思う気持ちも察している。\n当然のことだからね。
+Shizuku: I understand your feelings of anxiety. That's natural.
 
 しずく: でもこの経験は、今後、\n君にとって大きな財産になるはずだ。
-しずく: でもこの経験は、今後、\n君にとって大きな財産になるはずだ。
+Shizuku: But this experience would be a valuable asset for you to have.
 
 しずく: もちろん、君ひとりで全部やれってことじゃない。\nチーム全員でサポートをするよ。
-しずく: もちろん、君ひとりで全部やれってことじゃない。\nチーム全員でサポートをするよ。
+Shizuku: Of course, you won't be doing it all alone. You'll have the support of your team.
 
 りん: 私もコウちゃんも、その上で\n葉月さんの考えに賛成したのよ。
-りん: 私もコウちゃんも、その上で\n葉月さんの考えに賛成したのよ。
+Rin: Me and Kou-chan both agreed with Hatsuki-san on these ideas.
 
 しずく: どうだろう？\n引き受けてもらえないかな？
-しずく: どうだろう？\n引き受けてもらえないかな？
+Shizuku: What do you think? You think you can do it?
 
 青葉: え、ええと……。
-青葉: え、ええと……。
+Aoba: Uh, uhhh……
 
 コウ: ま、こっちの準備はできてるってこと。\nあとは青葉次第だよ。
-コウ: ま、こっちの準備はできてるってこと。\nあとは青葉次第だよ。
+Kou: There's still the preparations, but after that it's up to you, Aoba.
 
 青葉: 八神さん……。
-青葉: 八神さん……。
+Aoba: Yagami-san……
 
 青葉: （そうだ、新人だからって考えちゃダメだ。\n　こんなチャンスをもらえること、\n　そうそうないかもしれないんだから）
-青葉: （そうだ、新人だからって考えちゃダメだ。\n　こんなチャンスをもらえること、\n　そうそうないかもしれないんだから）
+Aoba: （That's right, I shouldn't worry about me being a rookie。 It's not often that a chance like this comes around!）
 
 青葉: （ここががんばり時だよ、私！）
-青葉: （ここががんばり時だよ、私！）
+Aoba: （This is the time to work my hardest！）
 
 青葉: わかりましたっ！\n精一杯、やらせていただきます！
-青葉: わかりましたっ！\n精一杯、やらせていただきます！
+Aoba: Got it! I'll do my best!
 
 しずく: うん、いい返事だ。\nよろしくね。
-しずく: うん、いい返事だ。\nよろしくね。
+Shizuku: Good answer. I trust that you will.
 
 青葉: はひっ！
-青葉: はひっ！
+Aoba: Righ-!
 
 コウ: あ、噛んだ。
-コウ: あ、噛んだ。
+Kou: Ah, she bit her tongue.
 
 しずく: おやおや、大丈夫かい？\nそんなにガチガチになることはないよ。\nまずは力を抜こうね。
-しずく: おやおや、大丈夫かい？\nそんなにガチガチになることはないよ。\nまずは力を抜こうね。
+Shizuku: Oh my, are you okay？ You don't have to be so nervous.
+// NOT SURE 
 
 青葉: （あうう……。\n　や、やっぱりちょっと不安だよぉ）
-青葉: （あうう……。\n　や、やっぱりちょっと不安だよぉ）
+Aoba: （Ooowww……。 I really am a little nervous……）
 
 ねね: あおっち、そんな顔しないのー！\n大丈夫だよ、絶対に！
-ねね: あおっち、そんな顔しないのー！\n大丈夫だよ、絶対に！
+Nene: Aocchi, don't make that face! It's okay, it's totally okay!
 
 うみこ: 何が大丈夫ですか。\n根拠もないのに。
-うみこ: 何が大丈夫ですか。\n根拠もないのに。
+Umiko: What exactly is okay? There's no foundation for this experiment.
+// CHECK
 
 ねね: もー！　うみこさんは本当に意地悪ですね！\nそれに根拠ならありますよーだ！
-ねね: もー！　うみこさんは本当に意地悪ですね！\nそれに根拠ならありますよーだ！
+Nene: Hmmmph！　Umiko-san really is mean! Of course there's a foundation!
 
 青葉: え？　あるの？
-青葉: え？　あるの？
+Aoba: Eh？　There is？
 
 うみこ: ……涼風さんが聞き返してどうするんですか。
-うみこ: ……涼風さんが聞き返してどうするんですか。
+Umiko: ……Suzukaze-san, I ask again, what are you going to do?
+// Maybe "how will you do it"?
+// anyway COULD NOT TRANSLATE
 
 ねね: みんなの応援が根拠ですよ！\nね、あおっち！
-ねね: みんなの応援が根拠ですよ！\nね、あおっち！
+Nene: Everyone's support is the foundation! Right, Aocchi?
 
 青葉: ……う、うんっ！
-青葉: ……う、うんっ！
+Aoba: …Y-yeah！
 
 青葉: あのっ！　私、まだまだですけど、\nみなさん、どうか力を貸してくださいっ！
-青葉: あのっ！　私、まだまだですけど、\nみなさん、どうか力を貸してくださいっ！
+Aoba: Uhm, I'm still learning and improving, but everyone, please lend me your strength！
 
 コウ: だから、そう言ってるじゃん。
-コウ: だから、そう言ってるじゃん。
+Kou: You already said that.
+// CHECK
 
 りん: でも、こうして改めて挨拶するのは大切よね。
-りん: でも、こうして改めて挨拶するのは大切よね。
+Rin: But giving the rest of your speech is important.
+// COULD NOT TRANSLATE
 
 ねね: うみこさんも、あおっちに\nちゃんと協力してくださいよ～？
-ねね: うみこさんも、あおっちに\nちゃんと協力してくださいよ～？
+Nene: Umiko-san, can also you give Aocchi your co-operation?
 
 うみこ: わかってます。
-うみこ: わかってます。
+Umiko: Absolutely。
+// CHECK
 
 青葉: （ねねっち、ありがとう！\n　すっごく励まされたよー！）
-青葉: （ねねっち、ありがとう！\n　すっごく励まされたよー！）
+Aoba: （Nenecchi, thank you! You gave me the encouragement I needed!）
 
 しずく: ふふ。\nやはり桜くんを呼んだのは正解だったね。
-しずく: ふふ。\nやはり桜くんを呼んだのは正解だったね。
+Shizuku: Hehe。 That really was the right answer, Sakura-kun.
 
 しずく: さてと、じゃあ、さっそくシナリオのプロットを\nさらっと作ってみたから、意見をくれるかな？
-しずく: さてと、じゃあ、さっそくシナリオのプロットを\nさらっと作ってみたから、意見をくれるかな？
+Shizuku: Right then, I made the plot of the scenario rather hastily, so please give me your opinions.
 
 青葉: はいっ！
-青葉: はいっ！
+Aoba: Right！
 
 うみこ: プロットですか。\n本編のデバッグ対応が遅れている理由は\nこれだったわけですね。
-うみこ: プロットですか。\n本編のデバッグ対応が遅れている理由は\nこれだったわけですね。
+Umiko: Plot, you say? So that was why your communication with the debugging department was slow.
 
 しずく: そういうこと。\n大目に見る気になってくれた？
-しずく: そういうこと。\n大目に見る気になってくれた？
+Shizuku: Precisely。 Was it starting to look like I was taking you for granted?
+// CHECK
 
 うみこ: なりません。\n仕事はきちんとしてください。
-うみこ: なりません。\n仕事はきちんとしてください。
+Umiko: It already started. Please do your job properly.
 
 しずく: はは、ごめんごめん。\nそっちもすぐにやるからさ。
-しずく: はは、ごめんごめん。\nそっちもすぐにやるからさ。
+Shizuku: Haha, sorry, sorry! I'll do later, yeah?
 
 うみこ: では、ここでの私の役目は終わりですね。\n仕事に戻ります。
-うみこ: では、ここでの私の役目は終わりですね。\n仕事に戻ります。
+Umiko: With that, it seems like I'm no longer needed here. I will return to work.
 
 ねね: あ、あれ？\nじゃあ、私も？
-ねね: あ、あれ？\nじゃあ、私も？
+Nene: E-eh? Soooo, me too?
 
 うみこ: いえ、桜さんは会議が終わったら\n戻ってきてください。
-うみこ: いえ、桜さんは会議が終わったら\n戻ってきてください。
+Umiko: No, please stay here until the end of the meeting, Sakura-san.
 
 ねね: いいんですか？
-ねね: いいんですか？
+Nene: Is that okay? 
 
 うみこ: デバッグの分まで、\nここでちゃんと仕事をすること。\nいいですね？
-うみこ: デバッグの分まで、\nここでちゃんと仕事をすること。\nいいですね？
+Umiko: Your job is to represent the debug team here. Got it?
+// LOOSE
 
 ねね: はーい！
-ねね: はーい！
+Nene: Gooooot it!
 
 しずく: それじゃ、大まかなあらすじから始めるよ――
-しずく: それじゃ、大まかなあらすじから始めるよ――
+Shizuku: Right then, I'll start with a brief synopsis...
 
 青葉: （私がアートディレクター――\n　じ、実感が全然湧かないけど、\n　でも、とにかく、精一杯やらなくちゃ！）
-青葉: （私がアートディレクター――\n　じ、実感が全然湧かないけど、\n　でも、とにかく、精一杯やらなくちゃ！）
+青葉: （I'm an art director... it don't really feel different yet, but now is the time to prove myself!）
+// Loose
 
